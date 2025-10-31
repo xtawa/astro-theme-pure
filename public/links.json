@@ -1,0 +1,81 @@
+{
+  "friends": [
+    {
+      "id_name": "cf-links",
+      "desc": "Common links included in circle friends",
+      "link_list": [
+  {
+    "name": "未来道具研究所",
+    "avatar": "https://3.406288.xyz/sg.png",
+    "intro": "小站重启中，这里会记录日常、数码和折腾，欢迎围观～",
+    "link": "https://3.406288.xyz/"
+  },
+  {
+    "name": "流月小站",
+    "avatar": "https://cdn.flowmoon.cn/assets/img/avatar.png",
+    "intro": "且听风吟，静待花开",
+    "link": "https://blog.flowmoon.cn/"
+  },
+  {
+    "name": "Walter的博客",
+    "avatar": "https://cdn.xtawa.top/%E5%9C%86%E8%A7%92-cropped-1746124113-QQ%E5%9B%BE%E7%89%8720250502022554-1.webp",
+    "intro": "永远相信美好的事情即将发生",
+    "link": "http://blog.walter.xin/"
+  },
+  {
+    "name": "NMSL.CN",
+    "avatar": "https://nmsl.cn/icon.webp",
+    "intro": "Never Mind the Scandal and Liber",
+    "link": "https://nmsl.cn/"
+  },
+  {
+    "name": "一世繁华",
+    "avatar": "https://pic.imgdb.cn/item/663ba3380ea9cb14031b97ca.jpg",
+    "intro": "分享一二",
+    "link": "https://blog.hantaotao.top"
+  },
+  {
+    "name": "storm_1614",
+    "avatar": "https://storm1614.top/img/avatar_hu1035b0617e2a1fc81f93a2449fb745a3_83342_300x0_resize_box_3.png",
+    "intro": "颂古风文也别惘，知路偏曲难为圆。",
+    "link": "https://storm1614.top"
+  },
+  {
+    "name": "桜紺狸の部落阁",
+    "avatar": "https://www.skira.top/img/lemonsuka.webp",
+    "intro": "一个闲聊萌新动漫技术交流站",
+    "link": "https://www.skira.top/"
+  },
+  {
+    "name": "ドリームトレイン Blog",
+    "avatar": "https://pc.094521.xyz/favicon.jpg",
+    "intro": "一个摆烂的年更Blog",
+    "link": "https://blog.094521.xyz/"
+  }
+      ]
+    },
+    {
+      "id_name": "inactive-links",
+      "desc": "Inactive or rule-breaking friends",
+      "link_list": []
+    },
+    {
+      "id_name": "special-links",
+      "desc": "Other special links",
+      "link_list": [
+        {
+          "name": "虫洞",
+          "intro": "随机前往十年之约的成员博客",
+          "link": "https://www.foreverblog.cn/go.html",
+          "avatar": "/images/wormhole.png"
+        },
+        {
+          "name": "开往",
+          "intro": "随机前往开往的成员博客",
+          "link": "https://www.travellings.cn/go.html",
+          "avatar": "https://www.travellings.cn/assets/travelling.png"
+        }
+      ]
+    }
+  ]
+}

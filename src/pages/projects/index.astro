@@ -1,0 +1,88 @@
+---
+import { Image } from 'astro:assets'
+
+import { Button, Collapse, Icon } from 'astro-pure/user'
+import PageLayout from '@/layouts/CommonPage.astro'
+import ProjectSection from '@/components/projects/ProjectSection.astro'
+import Sponsors from '@/components/projects/Sponsors.astro'
+import Sponsorship from '@/components/projects/Sponsorship.astro'
+import alipay from '@/assets/alipay-qrcode.jpg'
+import KeyIcon from '@/assets/icons/key.svg'
+import wechat from '@/assets/wechat-qrcode.jpg'
+
+const headings = [
+  { depth: 2, slug: 'others', text: 'Projects' },
+  { depth: 2, slug: 'sponsorship', text: '赞助' }
+]
+---
+
+<PageLayout title='项目' {headings} view>
+  <p>Github 活动(没写什么实际项目，尴尬..):</p>
+  <p>
+    <Image
+      src='https://ghchart.rshah.org/659eb9/xtawa'
+      alt='github activities'
+      inferSize
+      loading='lazy'
+    />
+  </p>
+  <p>
+  如果你认为合作一个项目会有用或有趣，你可以捐款支持我的工作，或者联系我讨论一个项目。
+  </p>
+  <Button title='赞助' class='w-fit' href='#sponsorship'>
+    <Icon class='size-5' name='receive-money' slot='before' />
+  </Button>
+
+  <h2 id='others'>Projects</h2>
+  <ProjectSection
+    projects={[
+      {
+        name: 'Cosmic Planet 3D page',
+        description: "抽象动态行星模拟网页",
+        links: [{ type: 'github', href: 'https://github.com/xtawa/cosmic_planet_html' }]
+      },
+      {
+        name: 'Github actions 脚本：自动从阿里云OSS拉取内容',
+        description: '',
+        links: [{ type: 'github', href: 'https://github.com/xtawa/digital_garden' }]
+      }
+    ]}
+  />
+
+  <!-- sponsorship -->
+  <h2 id='sponsorship'>赞助</h2>
+  <p>请在赞助后主动联系我或支付时备注信息</p>
+  <Sponsorship
+    methods={[
+      { name: 'WeChat', icon: 'wechat-pay', image: wechat },
+      { name: 'Alipay', icon: 'alipay', image: alipay }
+    ]}
+  />
+  <p>Thanks to the following sponsors:</p>
+  <Sponsors
+    sponsors={[
+      { name: 'Anonymous', amount: '2.00', date: '2019-07-02' },
+      { name: 'Anonymous', amount: '20.00', date: '2022-04-06' }
+    ]}
+  />
+</PageLayout>
+
+<style>
+  .sponsorship-card {
+    & .sponsorship-card-img {
+      opacity: 0.3;
+      --un-blur: blur(4px);
+      filter: var(--un-blur);
+    }
+
+    &:hover {
+      & .sponsorship-card-icon {
+        opacity: 0;
+      }
+      & .sponsorship-card-img {
+        opacity: 1;
+        --un-blur: blur(0);
+      }
+    }
+  }
+</style>
