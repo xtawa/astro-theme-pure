@@ -10,3 +10,4 @@ heroImage:
 language: Chinese
 draft: false
 ---
+![](thumbnail%201%201.jpg)
