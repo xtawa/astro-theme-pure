@@ -12,6 +12,9 @@ description: 为Fuwari主题Banner设置每日Bing壁纸的教程
 title: 为Fuwari主题Banner设置每日Bing壁纸
 ---
 
+# 为Fuwari主题Banner设置每日Bing壁纸
+
+
 ### 以上服务由 [Bing每日壁纸档案库](https://bing.img.run/api.html) 提供
 
 
