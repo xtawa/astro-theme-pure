@@ -38,7 +38,7 @@ title: 自用梯子推荐
 ### 速度、流媒体、UDP检测
 
 
-[embed](https://tutorial.aladdinnet.cc)
+详见官网
 
 
 ### 价格
