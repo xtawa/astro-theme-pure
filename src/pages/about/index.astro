@@ -1,0 +1,238 @@
+---
+import { Button, Collapse, Spoiler, Timeline } from 'astro-pure/user'
+import PageLayout from '@/layouts/CommonPage.astro'
+import Substats from '@/components/about/Substats.astro'
+import ToolSection from '@/components/about/ToolSection.astro'
+
+const headings = [
+	{ depth: 2, slug: 'tools', text: '生产力工具' },
+	{ depth: 2, slug: 'social-networks', text: '社交媒体' },
+	{ depth: 2, slug: 'gossips', text: '八卦' },
+	{ depth: 2, slug: 'about-blog', text: '关于本站' }
+]
+---
+
+<PageLayout title='About' {headings} comment>
+	<p>Developer / Designer / WearOS developer</p>
+	<p>
+		你好👋我是YanLuo洛，这是我的博客。
+	</p>
+	<p>
+		我会在这里记录我的技术学习心得、总结我的生活、分享我的所见所闻
+	</p>
+	<p>
+		感谢您的关注！
+	</p>
+	<p>
+		My bio: Protect what you love <Spoiler> 爱你所爱 </Spoiler>
+	</p>
+	<Button title='赞助' class='w-fit' href='/projects#sponsorship' variant='ahead' />
+
+
+	{/* tools */}
+	<h2 id='tools'>生产力工具</h2>
+	<p>当前正在使用的工具:</p>
+	<ToolSection
+		class='mb-5'
+		title='设计'
+		tools={[
+			{
+				name: 'Photoshop',
+				description: 'Picture Editing',
+				href: 'https://www.adobe.com/products/photoshop',
+				icon: import('@/assets/tools/photoshop.svg?raw')
+			},
+			{
+				name: 'Illustrator',
+				description: 'Vector Drawing',
+				href: 'https://www.adobe.com/products/illustrator',
+				icon: import('@/assets/tools/illustrator.svg?raw')
+			},
+			{
+				name: 'After Effects',
+				description: 'Motion Graphics',
+				href: 'https://www.adobe.com/products/aftereffects',
+				icon: import('@/assets/tools/aftereffects.svg?raw')
+			},
+			{
+				name: 'Premiere Pro',
+				description: 'Video Editing',
+				href: 'https://www.adobe.com/products/premiere',
+				icon: import('@/assets/tools/premiere.svg?raw')
+			}
+		]}
+	/>
+	<ToolSection
+		class='mb-5'
+		title='生产力'
+		tools={[
+			{
+				name: 'Chrome',
+				description: 'Browser',
+				href: 'https://www.google.com/chrome/',
+				icon: import('@/assets/tools/chrome.svg?raw')
+			},
+			{
+				name: 'Firefox',
+				description: 'Browser',
+				href: 'https://www.mozilla.org/en-US/firefox',
+				icon: import('@/assets/tools/firefox.svg?raw')
+			},
+			{
+				name: 'Notion',
+				description: 'Note Taking',
+				href: 'https://www.notion.so/',
+				icon: import('@/assets/tools/notion.svg?raw')
+			},
+			{
+				name: 'Typora',
+				description: 'Markdown Editor',
+				href: 'https://typora.io/',
+				icon: import('@/assets/tools/typora.svg?raw')
+			}
+		]}
+	/>
+	<ToolSection
+		class='mb-5'
+		title='开发'
+		tools={[
+			{
+				name: 'VS Code',
+				description: 'IDE',
+				href: 'https://code.visualstudio.com/',
+				icon: import('@/assets/tools/vscode.svg?raw')
+			},
+			{
+				name: 'Neovim',
+				description: 'IDE',
+				href: 'https://neovim.io/',
+				icon: import('@/assets/tools/neovim.svg?raw')
+			},
+			{
+				name: 'Sublime Text',
+				description: 'IDE',
+				href: 'https://www.sublimetext.com/',
+				icon: import('@/assets/tools/sublime.svg?raw')
+			}
+		]}
+	/>
+	<ToolSection
+		class='mb-5'
+		title='设备'
+		tools={[
+			{
+				name: 'Ubuntu 24.04 LTS',
+				description: 'Linux Distribution',
+				href: 'https://ubuntu.com/',
+				icon: import('@/assets/tools/ubuntu.svg?raw')
+			},
+			{
+				name: 'Windows 11',
+				description: 'Framework Laptop 16',
+				href: 'https://news.microsoft.com/windows11-general-availability/',
+				icon: import('@/assets/tools/windows11.svg?raw')
+			}
+		]}
+	/>
+
+	{/* social-networks */}
+	<h2 id='social-networks'>社交媒体</h2>
+	<p>
+
+	</p>
+	<Substats
+		stats={[
+			{
+				platform: 'GitHub',
+				icon: 'github',
+				link: 'https://github.com/xtawa',
+				// FIX: 添加缺失的 text 属性
+				text: '@xtawa'
+			},
+			{
+				platform: 'Telegram',
+				icon: 'telegram',
+				color: '#2ca5e0',
+				link: 'https://t.me/Coisini_Luo',
+				// FIX: 添加缺失的 text 属性
+				text: '@Coisini_Luo'
+			}
+		]}
+	/>
+
+	{/* gossips */}
+	<h2 id='gossips'>八卦</h2>
+	<Collapse title='还没想好呢'>
+		还没想好呢
+	</Collapse>
+
+	{/* about-blog */}
+	<h2 id='about-blog'>关于本站</h2>
+	<p>站点历史:</p>
+	<Timeline
+		events={[
+			{
+				date: '2024-01-04',
+				content:
+					'网站升级，部署到树莓派上，基于WordPress'
+			},
+			{
+				date: '2024-10-07',
+				content:
+					'网站开放，部署于Github Pages.'
+			},
+			{
+				date: '2025-07-09',
+				content:
+					'在NameSilo以18元的价格买下 xtawa.top 域名'
+			},
+			{
+				date: '2025-07-10',
+				content:
+					'将网站框架迁移到了Hugo，发现网上的教程都已失效，第一次整 整了半天要崩溃了😒'
+			},
+			{
+				date: '2025-07-12',
+				content:
+					'自建图库，PicX+Vercel模式，实现全国无障碍访问'
+			},
+			{
+				date: '2025-07-15',
+				content:
+					'迁移到Astro，Fuwari主题真好看🥳'
+			},
+			{
+				date: '2025-10-31',
+				content: '切换至Pure主题'
+			}
+		]}
+	/>
+	<p>
+		网站的顺利运行和个性化定制也依赖于以下优秀项目/服务提供商提供的资源和技术支持:
+	</p>
+	<ul>
+		<li>域名: <a href='#' target='_blank'>Dynadot&Namesilo</a></li>
+		<li>
+			框架&主题: <a href='https://astro.build/' target='_blank'>Astro</a> + <a
+				href='https://github.com/cworld1/astro-theme-pure'
+				target='_blank'>Astro Theme Pure</a
+			>
+		</li>
+		<li>
+			部署: <a href='https://vercel.com/' target='_blank'>Vercel</a>
+		</li>
+		<li>
+			CI/CD: <a href='https://vercel.com/workflow' target='_blank'>Vercel Workflow</a>
+		</li>
+		<li>评论系统: <a href='https://waline.js.org' target='_blank'>Waline</a></li>
+		<li>
+			浏览统计: <a href='https://supabase.com/' target='_blank'>Supabase</a> +
+			<a href='https://waline.js.org/' target='_blank'>Waline</a>
+		</li>
+		<li>
+			其他: <a href='https://github.com/spencerwooo/substats' target='_blank'
+				>Substats</a
+			>
+		</li>
+	</ul>
+</PageLayout>
