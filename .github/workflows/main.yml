@@ -73,5 +73,7 @@ jobs:
         with:
           # 关键：ad-m/github-push-action 也需要一个有写权限的 Token 来推送
           # 同样使用您的 PIC_TOKEN
+# 🚨 关键修改：添加强制推送选项，解决 'rejected' 错误
+          force: true
           github_token: ${{ secrets.PIC_TOKEN }}
           # 如果推送失败，请确保您的 git config 邮箱和用户名与 PIC_TOKEN 关联的账户匹配
