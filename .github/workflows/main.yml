@@ -1,8 +1,8 @@
 name: Sync Docs
 
 on:
-  # 允许手动push触发
-# push:
+  # 允许手动push触发（根据您的注释，目前是禁用的）
+#  push:
 #    branches:
 #      - master
   # 允许外部仓库事件触发
@@ -17,35 +17,44 @@ jobs:
     steps:
       - name: 检查分支
         uses: actions/checkout@master
+        # 如果您的 elog 目标仓库在不同的分支，可能需要调整 'ref: master'
 
       - name: 安装node环境
         uses: actions/setup-node@master
         with:
           node-version: "16.x"
 
-      - name: 安装依赖 (生产环境)
+      - name: 安装依赖和Elog CLI
         run: |
           export TZ='Asia/Shanghai'
+          # 安装 package.json 中的依赖
           npm install --prod
+          # 确保安装了 elog cli，如果它不在 --prod 依赖中
+          npm install @elog/cli 
 
-      # -------------------------------------------------------------------
-      # 新增步骤：安装 @elog/cli
-      - name: 安装 Elog CLI
-        run: npm install @elog/cli 
-        # 注意：如果 @elog/cli 是项目的 devDependencies，npm install --prod 不会安装它。
-        # 如果它需要在全局使用，可以使用： run: npm install -g @elog/cli
-      # -------------------------------------------------------------------
-
-      - name: 拉取文档
+      - name: 拉取文档 (注入高权限Token)
         env:
+          # Notion 配置（保持不变）
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ secrets.ELOG_GITHUB_USER }}
-          repo: ${{ secrets.ELOG_GITHUB_REPO }}
-
+          
+          # 核心修正：使用您有写权限的 PIC_TOKEN 覆盖 GITHUB_TOKEN
+          # elog CLI 在执行 GitHub 图床上传时会读取 GITHUB_TOKEN
+          # GITHUB_TOKEN 的变量名是 elog 官方所预期的。
+          GITHUB_TOKEN: ${{ secrets.PIC_TOKEN }} 
+          
+          # Elog Github 配置（图床或仓库信息）
+          ELOG_GITHUB_USER: ${{ secrets.ELOG_GITHUB_USER }}
+          ELOG_GITHUB_REPO: ${{ secrets.ELOG_GITHUB_REPO }}
+          
+          # Elog REQUEST_TIMEOUT 配置（如果需要）
+          REQUEST_TIMEOUT: 900000 
+          
         run: |
-          npm run sync 
+          # 调试确认 GITHUB_TOKEN 已被注入
+          echo "GITHUB_TOKEN is set: $GITHUB_TOKEN"
+          # 执行同步命令
+          npm run sync
 
       - name: 配置Git用户名邮箱
         run: |
@@ -56,9 +65,13 @@ jobs:
         run: |
           echo `date +"%Y-%m-%d %H:%M:%S"` begin > time.txt
           git add .
+          # 注意：-a 选项会提交所有已跟踪的文件，如果 elog 有更改，都会被提交
           git commit -m "Refresh elog.cache.json" -a
 
       - name: 推送文档到仓库
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # 关键：ad-m/github-push-action 也需要一个有写权限的 Token 来推送
+          # 同样使用您的 PIC_TOKEN
+          github_token: ${{ secrets.PIC_TOKEN }}
+          # 如果推送失败，请确保您的 git config 邮箱和用户名与 PIC_TOKEN 关联的账户匹配
