@@ -8,7 +8,7 @@ tags:
 publishDate: '2025-11-01'
 urlname: elog-deploy-hard
 description: 太费劲了 花了很多时间在astro上部署elog
-title: 部署Elog要死了o(╥﹏╥)o
+title: 部署Elog要死了
 ---
 
 ![8336.jpg](https://raw.githubusercontent.com/xtawa/picx-images-hosting/master/dbffce0b739434cfe2f5a80520b09dc8.jpg)
