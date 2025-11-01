@@ -1,6 +1,6 @@
 {
   "name": "astro-theme-pure",
-  "type": "module",
+
   "version": "4.0.8",
   "scripts": {
     "dev": "astro dev",

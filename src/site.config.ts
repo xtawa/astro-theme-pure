@@ -47,7 +47,7 @@ export const theme: ThemeUserConfig = {
   /** Configure the header of your site. */
   header: {
     menu: [
-      { title: '主页', link: 'https://blog.xtyin.com' },
+      { title: '博客', link: '/blog' },
       { title: '归档', link: '/archives' },
       { title: '标签', link: '/tags' },
       { title: '项目', link: '/projects' },
