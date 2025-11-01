@@ -18,7 +18,7 @@
     "clean": "rm -rf .astro .vercel dist",
     "elog:init": "elog init",
     "sync:local": "elog sync -e .elog.env", 
-    "sync": "elog sync", 
+    "sync": "elog sync -c elog.config.js -e elog.env", 
     "clean": "elog clean"
   },
   "dependencies": {
