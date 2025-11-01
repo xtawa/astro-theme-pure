@@ -40,14 +40,14 @@ jobs:
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
-          token: ${{ secrets.ELOG_GITHUB_TOKEN }}
-          user: ${{ secrets.ELOG_GITHUB_USER }}
-          repo: ${{ secrets.ELOG_GITHUB_REPO }}
+          token: ${{ secrets.token }}
+          user: ${{ secrets.user }}
+          repo: ${{ secrets.repo }}
 
         run: |
           env
-          echo "ELOG_GITHUB_TOKEN is set: $ELOG_GITHUB_TOKEN"
-          echo "ELOG_GITHUB_USER is set: $ELOG_GITHUB_USER"
+          echo "ELOG_GITHUB_TOKEN is set: $token"
+          echo "ELOG_GITHUB_USER is set: $user"
           npm run sync 
 
       - name: 配置Git用户名邮箱
