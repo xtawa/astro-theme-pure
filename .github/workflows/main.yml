@@ -40,8 +40,11 @@ jobs:
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          token: ${{ secrets.PIC_TOKEN }}
+          user: ${{ secrets.ELOG_GITHUB_USER }}
+          repo: ${{ secrets.ELOG_GITHUB_REPO }}
         run: |
-          npm run sync -c elog.config.js
+          npm run sync 
 
       - name: 配置Git用户名邮箱
         run: |
