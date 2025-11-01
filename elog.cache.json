@@ -281,7 +281,7 @@
     {
       "id": "29e919c5-2470-8030-a1d1-ecff60f9e563",
       "doc_id": "29e919c5-2470-8030-a1d1-ecff60f9e563",
-      "updated": 1762010160000,
+      "updated": 1762011360000,
       "properties": {
         "categories": [
           "生活"
@@ -380,6 +380,7 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
+        "cover": "https://www.notion.so/images/page-cover/solid_beige.png",
         "categories": [
           "博客折腾手册",
           "教程"
@@ -388,10 +389,15 @@
           "建站",
           "博客"
         ],
+        "status": "已发布",
+        "banner": "",
         "publishDate": "2025-07-19",
+        "catalog": [],
         "urlname": "indexnowcli",
         "description": "手动提交Indexnow的教程",
-        "title": "Indexnow Python提交脚本"
+        "title": "Indexnow Python提交脚本",
+        "date": "2025-11-01 22:51:00",
+        "updated": "2025-11-01 23:26:00"
       },
       "url": "https://www.notion.so/Indexnow-Python-29e919c524708007a5d8c14f6a33d04b",
       "public_url": "https://lyxyy.notion.site/Indexnow-Python-29e919c524708007a5d8c14f6a33d04b"
@@ -400,7 +406,7 @@
       "object": "page",
       "id": "29e919c5-2470-8030-a1d1-ecff60f9e563",
       "created_time": "2025-11-01T15:13:00.000Z",
-      "last_edited_time": "2025-11-01T15:16:00.000Z",
+      "last_edited_time": "2025-11-01T15:36:00.000Z",
       "created_by": {
         "object": "user",
         "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
@@ -419,7 +425,6 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
-        "cover": "",
         "categories": [
           "生活"
         ],
@@ -428,15 +433,10 @@
           "建站",
           "记录"
         ],
-        "status": "已发布",
-        "banner": "",
         "publishDate": "2025-11-01",
-        "catalog": [],
         "urlname": "elog-deploy-hard",
         "description": "太费劲了 花了很多时间在astro上部署elog",
-        "title": "部署Elog要死了o(╥﹏╥)o",
-        "date": "2025-11-01 23:13:00",
-        "updated": "2025-11-01 23:16:00"
+        "title": "部署Elog要死了o(╥﹏╥)o"
       },
       "url": "https://www.notion.so/Elog-o-o-29e919c524708030a1d1ecff60f9e563",
       "public_url": "https://lyxyy.notion.site/Elog-o-o-29e919c524708030a1d1ecff60f9e563"
@@ -457,8 +457,8 @@
       "cover": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/3df4efcf-3528-483b-959a-7b802d0f7b07/5318.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YHZQPRU4%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T152918Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJGMEQCIHvf2mS9UKrjEGDeq%2BhRvpwIy6K3QPwVEcTMR0FrwCQ9AiBT61Pq5AwJprRfm%2BBsfHVfWY2bA8yxdYarCXwMRvFu3Cr%2FAwguEAAaDDYzNzQyMzE4MzgwNSIMHx7lkta%2BauYtElCEKtwDbkTC9aC6Id%2FMaS5ZCR%2F8y0nYDBqNnoclw9WdXL4l5MuyYbciNwqNICtinjxhpxzH4XB%2FWvZtKbxyDn1UlKyQJk5VNc5KLdqW9Vrc%2BX70DgkuDlLoa0nmRDiRCxv%2FTN18cWVW4AHfyBlwUrSb7A8brb26M4nzi08kO%2B7iYMbdmG43eBLk2iZ6n%2B6fG1E%2BI4Z1BoK6hC4Y5DCanD1yzIVHX37FyHObUbg6bj84sIuGoNByERI%2BxoYLkHnD%2BlCdCdLWx%2FbcfY3IGp4JOFE28w%2Fl0s%2FYAM8oHW1dYWUnQClDLqeBgN2cJwPfETarolzBNzYvMbemobKZPdhefj7l9srqtmukd52bVjicVMInc4IcPqCUENTGvQlomswTgElQwOioitV3qnctoLUSjAvDh4rldNB2LK15vk2yRQrGfypXmjgjHnqIcCq6HILW0leVIVmDZKH%2B1z80%2BDDEe99RPg7qIRnacc6xiFPGOuu1TT6WPDA7nGfM1ugc6nZ9lJllBb0UBioFnJ9hnQ34gkpFFF5nc1wDrlFljY%2Bsw5Up7NtaSeQC77Zyii%2FLIzb3OXdX8aSJdh2JqyNCjD%2Fqj7iUhD96HUAz2NQoi5P%2BpBCQIjWnuGZu6vzhW%2FeTmCf4WPMwjI2YyAY6pgEpBZ4OSCUw2O0OWoufKW3B8SmHBdVxz8A%2F8Sc%2BM8gc%2BJlJYDuOdDk%2BWbR5gQ7ehKS6KJpkMt2TpK0s9BZBEY%2FHIWdpGC8PS3RKinkMrj3%2BFUIbeTETpYRtQX8rkHGHqNNHfNMrrIsDdeiIwFwlh6ekCK10wkzI5QrHQOU74Ft9KTxzsL%2BlZI80LE7px8%2BQd%2Fu2usdaP6o7QCuK6ACoMQlWnKwnRkFN&X-Amz-Signature=cc1a56e231e7fa650013ec01ae062bf639a1696484c66e6d2a9ba71010a13617&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-          "expiry_time": "2025-11-01T16:29:18.593Z"
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/3df4efcf-3528-483b-959a-7b802d0f7b07/5318.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VHXS3EJQ%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T153807Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJHMEUCIQCx3gW%2BAHfGeQO9gA%2BS%2BvIxqXQTVD1n7vdXsEbpKkaJTAIgep%2Bx9Fu1WW4g4uvgXK5Qf%2F3yf70tFMIzHNUAfvhJg7sq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDK9VJvDBn36fRQhVQCrcA8LBgXQlhJW27Y9mx3aUKmga3nJwEJKvJzk7ih0hrKJIWQfl07WfKViQ7kabe0E6zfiWrO3b22tEJ9No6XP%2BJExNgjgmrcuCpOvZfdx0MGNLy7UqRoSbw3LGJfP%2FOY2k%2F6%2BzK2S5mWTbLxZKmDFPeTE7VBkOpjfvC40GhtXpx1wqWt1H3HqDTcupuI88KfYD0H4FfwNLIDiA0owaf%2FLkmDI0DvpYLjRlww8LdH6zo2KdqYL7QO7SeqXJnhINBus3UU%2BriMBVEeJu6vEzb8BD6LbboZp4H9XYPLimwM7Mr6kGAxHKXQ2b61yvJmDVeKTOuXBNGnGiYwW0mI1qSVuaw5Ct8A79ciZV4i6tY06OJYFA5H0DoG8He0Pg4f4DKjapIialJw6aE8vSUHHPNa8qcdyCbsc9RZj5G74sO%2B%2BKTGoXe76KvbvrC9cVJXq6C9hYzMjEaj8jqyX9gMQ5zgN7k%2FF5jybCH0T6fA15UyMwv27KfFTcxk%2Bz6n94l3m10Q%2BEiLMxUtTf3UnqWH1ukRvPqvL2pE8nouSRL4A5sTJCw1pUDAWvbbuxCrGe6wZ%2B%2F%2Fy9yT9ygze4lPq%2BrxsGi1Te1kBQxSnnPP%2BN8GRMS9SSZoLsgmWp9odtpXaCD30dMOaJmMgGOqUBESJS98JiNcEopOrCWkA5gqeY8Bpm9wsFeVI31kVx37uXIOogEVZ4lBTbkDRNs%2Bka2ylfo7xX7bDIVzTFnOU37OkhlCuIQLUPXT6LInhDww60QOtfMKrzSBIgNFC22y6G7OvKfYXTc5cwckLVvKMUDRqhCVcuIxP6FkTOgoZ0QT4nlTl1uur4PIJ3A878TAd7MMOW%2Bn2Q%2FUrl8cySoegXvNJ%2F9%2Fwa&X-Amz-Signature=730f650b925859364c6df12567b99820388f7dfdf8efe7aab30ba7218bbdc03c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-11-01T16:38:07.737Z"
         }
       },
       "icon": null,
@@ -470,7 +470,7 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
-        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/3df4efcf-3528-483b-959a-7b802d0f7b07/5318.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YHZQPRU4%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T152918Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJGMEQCIHvf2mS9UKrjEGDeq%2BhRvpwIy6K3QPwVEcTMR0FrwCQ9AiBT61Pq5AwJprRfm%2BBsfHVfWY2bA8yxdYarCXwMRvFu3Cr%2FAwguEAAaDDYzNzQyMzE4MzgwNSIMHx7lkta%2BauYtElCEKtwDbkTC9aC6Id%2FMaS5ZCR%2F8y0nYDBqNnoclw9WdXL4l5MuyYbciNwqNICtinjxhpxzH4XB%2FWvZtKbxyDn1UlKyQJk5VNc5KLdqW9Vrc%2BX70DgkuDlLoa0nmRDiRCxv%2FTN18cWVW4AHfyBlwUrSb7A8brb26M4nzi08kO%2B7iYMbdmG43eBLk2iZ6n%2B6fG1E%2BI4Z1BoK6hC4Y5DCanD1yzIVHX37FyHObUbg6bj84sIuGoNByERI%2BxoYLkHnD%2BlCdCdLWx%2FbcfY3IGp4JOFE28w%2Fl0s%2FYAM8oHW1dYWUnQClDLqeBgN2cJwPfETarolzBNzYvMbemobKZPdhefj7l9srqtmukd52bVjicVMInc4IcPqCUENTGvQlomswTgElQwOioitV3qnctoLUSjAvDh4rldNB2LK15vk2yRQrGfypXmjgjHnqIcCq6HILW0leVIVmDZKH%2B1z80%2BDDEe99RPg7qIRnacc6xiFPGOuu1TT6WPDA7nGfM1ugc6nZ9lJllBb0UBioFnJ9hnQ34gkpFFF5nc1wDrlFljY%2Bsw5Up7NtaSeQC77Zyii%2FLIzb3OXdX8aSJdh2JqyNCjD%2Fqj7iUhD96HUAz2NQoi5P%2BpBCQIjWnuGZu6vzhW%2FeTmCf4WPMwjI2YyAY6pgEpBZ4OSCUw2O0OWoufKW3B8SmHBdVxz8A%2F8Sc%2BM8gc%2BJlJYDuOdDk%2BWbR5gQ7ehKS6KJpkMt2TpK0s9BZBEY%2FHIWdpGC8PS3RKinkMrj3%2BFUIbeTETpYRtQX8rkHGHqNNHfNMrrIsDdeiIwFwlh6ekCK10wkzI5QrHQOU74Ft9KTxzsL%2BlZI80LE7px8%2BQd%2Fu2usdaP6o7QCuK6ACoMQlWnKwnRkFN&X-Amz-Signature=cc1a56e231e7fa650013ec01ae062bf639a1696484c66e6d2a9ba71010a13617&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/3df4efcf-3528-483b-959a-7b802d0f7b07/5318.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VHXS3EJQ%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T153807Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJHMEUCIQCx3gW%2BAHfGeQO9gA%2BS%2BvIxqXQTVD1n7vdXsEbpKkaJTAIgep%2Bx9Fu1WW4g4uvgXK5Qf%2F3yf70tFMIzHNUAfvhJg7sq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDK9VJvDBn36fRQhVQCrcA8LBgXQlhJW27Y9mx3aUKmga3nJwEJKvJzk7ih0hrKJIWQfl07WfKViQ7kabe0E6zfiWrO3b22tEJ9No6XP%2BJExNgjgmrcuCpOvZfdx0MGNLy7UqRoSbw3LGJfP%2FOY2k%2F6%2BzK2S5mWTbLxZKmDFPeTE7VBkOpjfvC40GhtXpx1wqWt1H3HqDTcupuI88KfYD0H4FfwNLIDiA0owaf%2FLkmDI0DvpYLjRlww8LdH6zo2KdqYL7QO7SeqXJnhINBus3UU%2BriMBVEeJu6vEzb8BD6LbboZp4H9XYPLimwM7Mr6kGAxHKXQ2b61yvJmDVeKTOuXBNGnGiYwW0mI1qSVuaw5Ct8A79ciZV4i6tY06OJYFA5H0DoG8He0Pg4f4DKjapIialJw6aE8vSUHHPNa8qcdyCbsc9RZj5G74sO%2B%2BKTGoXe76KvbvrC9cVJXq6C9hYzMjEaj8jqyX9gMQ5zgN7k%2FF5jybCH0T6fA15UyMwv27KfFTcxk%2Bz6n94l3m10Q%2BEiLMxUtTf3UnqWH1ukRvPqvL2pE8nouSRL4A5sTJCw1pUDAWvbbuxCrGe6wZ%2B%2F%2Fy9yT9ygze4lPq%2BrxsGi1Te1kBQxSnnPP%2BN8GRMS9SSZoLsgmWp9odtpXaCD30dMOaJmMgGOqUBESJS98JiNcEopOrCWkA5gqeY8Bpm9wsFeVI31kVx37uXIOogEVZ4lBTbkDRNs%2Bka2ylfo7xX7bDIVzTFnOU37OkhlCuIQLUPXT6LInhDww60QOtfMKrzSBIgNFC22y6G7OvKfYXTc5cwckLVvKMUDRqhCVcuIxP6FkTOgoZ0QT4nlTl1uur4PIJ3A878TAd7MMOW%2Bn2Q%2FUrl8cySoegXvNJ%2F9%2Fwa&X-Amz-Signature=730f650b925859364c6df12567b99820388f7dfdf8efe7aab30ba7218bbdc03c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
         "categories": [
           "教程"
         ],
@@ -607,8 +607,8 @@
       "cover": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/60813ac9-7365-4569-bf77-fce27f33cc9c/5319.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YHZQPRU4%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T152918Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJGMEQCIHvf2mS9UKrjEGDeq%2BhRvpwIy6K3QPwVEcTMR0FrwCQ9AiBT61Pq5AwJprRfm%2BBsfHVfWY2bA8yxdYarCXwMRvFu3Cr%2FAwguEAAaDDYzNzQyMzE4MzgwNSIMHx7lkta%2BauYtElCEKtwDbkTC9aC6Id%2FMaS5ZCR%2F8y0nYDBqNnoclw9WdXL4l5MuyYbciNwqNICtinjxhpxzH4XB%2FWvZtKbxyDn1UlKyQJk5VNc5KLdqW9Vrc%2BX70DgkuDlLoa0nmRDiRCxv%2FTN18cWVW4AHfyBlwUrSb7A8brb26M4nzi08kO%2B7iYMbdmG43eBLk2iZ6n%2B6fG1E%2BI4Z1BoK6hC4Y5DCanD1yzIVHX37FyHObUbg6bj84sIuGoNByERI%2BxoYLkHnD%2BlCdCdLWx%2FbcfY3IGp4JOFE28w%2Fl0s%2FYAM8oHW1dYWUnQClDLqeBgN2cJwPfETarolzBNzYvMbemobKZPdhefj7l9srqtmukd52bVjicVMInc4IcPqCUENTGvQlomswTgElQwOioitV3qnctoLUSjAvDh4rldNB2LK15vk2yRQrGfypXmjgjHnqIcCq6HILW0leVIVmDZKH%2B1z80%2BDDEe99RPg7qIRnacc6xiFPGOuu1TT6WPDA7nGfM1ugc6nZ9lJllBb0UBioFnJ9hnQ34gkpFFF5nc1wDrlFljY%2Bsw5Up7NtaSeQC77Zyii%2FLIzb3OXdX8aSJdh2JqyNCjD%2Fqj7iUhD96HUAz2NQoi5P%2BpBCQIjWnuGZu6vzhW%2FeTmCf4WPMwjI2YyAY6pgEpBZ4OSCUw2O0OWoufKW3B8SmHBdVxz8A%2F8Sc%2BM8gc%2BJlJYDuOdDk%2BWbR5gQ7ehKS6KJpkMt2TpK0s9BZBEY%2FHIWdpGC8PS3RKinkMrj3%2BFUIbeTETpYRtQX8rkHGHqNNHfNMrrIsDdeiIwFwlh6ekCK10wkzI5QrHQOU74Ft9KTxzsL%2BlZI80LE7px8%2BQd%2Fu2usdaP6o7QCuK6ACoMQlWnKwnRkFN&X-Amz-Signature=a644140b0561d087dbd8580061bc597a73463ec50c418d5608092abdaa3ca90e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-          "expiry_time": "2025-11-01T16:29:18.594Z"
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/60813ac9-7365-4569-bf77-fce27f33cc9c/5319.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VHXS3EJQ%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T153807Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJHMEUCIQCx3gW%2BAHfGeQO9gA%2BS%2BvIxqXQTVD1n7vdXsEbpKkaJTAIgep%2Bx9Fu1WW4g4uvgXK5Qf%2F3yf70tFMIzHNUAfvhJg7sq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDK9VJvDBn36fRQhVQCrcA8LBgXQlhJW27Y9mx3aUKmga3nJwEJKvJzk7ih0hrKJIWQfl07WfKViQ7kabe0E6zfiWrO3b22tEJ9No6XP%2BJExNgjgmrcuCpOvZfdx0MGNLy7UqRoSbw3LGJfP%2FOY2k%2F6%2BzK2S5mWTbLxZKmDFPeTE7VBkOpjfvC40GhtXpx1wqWt1H3HqDTcupuI88KfYD0H4FfwNLIDiA0owaf%2FLkmDI0DvpYLjRlww8LdH6zo2KdqYL7QO7SeqXJnhINBus3UU%2BriMBVEeJu6vEzb8BD6LbboZp4H9XYPLimwM7Mr6kGAxHKXQ2b61yvJmDVeKTOuXBNGnGiYwW0mI1qSVuaw5Ct8A79ciZV4i6tY06OJYFA5H0DoG8He0Pg4f4DKjapIialJw6aE8vSUHHPNa8qcdyCbsc9RZj5G74sO%2B%2BKTGoXe76KvbvrC9cVJXq6C9hYzMjEaj8jqyX9gMQ5zgN7k%2FF5jybCH0T6fA15UyMwv27KfFTcxk%2Bz6n94l3m10Q%2BEiLMxUtTf3UnqWH1ukRvPqvL2pE8nouSRL4A5sTJCw1pUDAWvbbuxCrGe6wZ%2B%2F%2Fy9yT9ygze4lPq%2BrxsGi1Te1kBQxSnnPP%2BN8GRMS9SSZoLsgmWp9odtpXaCD30dMOaJmMgGOqUBESJS98JiNcEopOrCWkA5gqeY8Bpm9wsFeVI31kVx37uXIOogEVZ4lBTbkDRNs%2Bka2ylfo7xX7bDIVzTFnOU37OkhlCuIQLUPXT6LInhDww60QOtfMKrzSBIgNFC22y6G7OvKfYXTc5cwckLVvKMUDRqhCVcuIxP6FkTOgoZ0QT4nlTl1uur4PIJ3A878TAd7MMOW%2Bn2Q%2FUrl8cySoegXvNJ%2F9%2Fwa&X-Amz-Signature=617f4da409bcd85e3a195cdf01f55673d852e8820438d99406c8ade2315e648f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry_time": "2025-11-01T16:38:07.738Z"
         }
       },
       "icon": null,
@@ -620,7 +620,7 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
-        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/60813ac9-7365-4569-bf77-fce27f33cc9c/5319.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YHZQPRU4%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T152918Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJGMEQCIHvf2mS9UKrjEGDeq%2BhRvpwIy6K3QPwVEcTMR0FrwCQ9AiBT61Pq5AwJprRfm%2BBsfHVfWY2bA8yxdYarCXwMRvFu3Cr%2FAwguEAAaDDYzNzQyMzE4MzgwNSIMHx7lkta%2BauYtElCEKtwDbkTC9aC6Id%2FMaS5ZCR%2F8y0nYDBqNnoclw9WdXL4l5MuyYbciNwqNICtinjxhpxzH4XB%2FWvZtKbxyDn1UlKyQJk5VNc5KLdqW9Vrc%2BX70DgkuDlLoa0nmRDiRCxv%2FTN18cWVW4AHfyBlwUrSb7A8brb26M4nzi08kO%2B7iYMbdmG43eBLk2iZ6n%2B6fG1E%2BI4Z1BoK6hC4Y5DCanD1yzIVHX37FyHObUbg6bj84sIuGoNByERI%2BxoYLkHnD%2BlCdCdLWx%2FbcfY3IGp4JOFE28w%2Fl0s%2FYAM8oHW1dYWUnQClDLqeBgN2cJwPfETarolzBNzYvMbemobKZPdhefj7l9srqtmukd52bVjicVMInc4IcPqCUENTGvQlomswTgElQwOioitV3qnctoLUSjAvDh4rldNB2LK15vk2yRQrGfypXmjgjHnqIcCq6HILW0leVIVmDZKH%2B1z80%2BDDEe99RPg7qIRnacc6xiFPGOuu1TT6WPDA7nGfM1ugc6nZ9lJllBb0UBioFnJ9hnQ34gkpFFF5nc1wDrlFljY%2Bsw5Up7NtaSeQC77Zyii%2FLIzb3OXdX8aSJdh2JqyNCjD%2Fqj7iUhD96HUAz2NQoi5P%2BpBCQIjWnuGZu6vzhW%2FeTmCf4WPMwjI2YyAY6pgEpBZ4OSCUw2O0OWoufKW3B8SmHBdVxz8A%2F8Sc%2BM8gc%2BJlJYDuOdDk%2BWbR5gQ7ehKS6KJpkMt2TpK0s9BZBEY%2FHIWdpGC8PS3RKinkMrj3%2BFUIbeTETpYRtQX8rkHGHqNNHfNMrrIsDdeiIwFwlh6ekCK10wkzI5QrHQOU74Ft9KTxzsL%2BlZI80LE7px8%2BQd%2Fu2usdaP6o7QCuK6ACoMQlWnKwnRkFN&X-Amz-Signature=a644140b0561d087dbd8580061bc597a73463ec50c418d5608092abdaa3ca90e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/60813ac9-7365-4569-bf77-fce27f33cc9c/5319.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VHXS3EJQ%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T153807Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJHMEUCIQCx3gW%2BAHfGeQO9gA%2BS%2BvIxqXQTVD1n7vdXsEbpKkaJTAIgep%2Bx9Fu1WW4g4uvgXK5Qf%2F3yf70tFMIzHNUAfvhJg7sq%2FwMILhAAGgw2Mzc0MjMxODM4MDUiDK9VJvDBn36fRQhVQCrcA8LBgXQlhJW27Y9mx3aUKmga3nJwEJKvJzk7ih0hrKJIWQfl07WfKViQ7kabe0E6zfiWrO3b22tEJ9No6XP%2BJExNgjgmrcuCpOvZfdx0MGNLy7UqRoSbw3LGJfP%2FOY2k%2F6%2BzK2S5mWTbLxZKmDFPeTE7VBkOpjfvC40GhtXpx1wqWt1H3HqDTcupuI88KfYD0H4FfwNLIDiA0owaf%2FLkmDI0DvpYLjRlww8LdH6zo2KdqYL7QO7SeqXJnhINBus3UU%2BriMBVEeJu6vEzb8BD6LbboZp4H9XYPLimwM7Mr6kGAxHKXQ2b61yvJmDVeKTOuXBNGnGiYwW0mI1qSVuaw5Ct8A79ciZV4i6tY06OJYFA5H0DoG8He0Pg4f4DKjapIialJw6aE8vSUHHPNa8qcdyCbsc9RZj5G74sO%2B%2BKTGoXe76KvbvrC9cVJXq6C9hYzMjEaj8jqyX9gMQ5zgN7k%2FF5jybCH0T6fA15UyMwv27KfFTcxk%2Bz6n94l3m10Q%2BEiLMxUtTf3UnqWH1ukRvPqvL2pE8nouSRL4A5sTJCw1pUDAWvbbuxCrGe6wZ%2B%2F%2Fy9yT9ygze4lPq%2BrxsGi1Te1kBQxSnnPP%2BN8GRMS9SSZoLsgmWp9odtpXaCD30dMOaJmMgGOqUBESJS98JiNcEopOrCWkA5gqeY8Bpm9wsFeVI31kVx37uXIOogEVZ4lBTbkDRNs%2Bka2ylfo7xX7bDIVzTFnOU37OkhlCuIQLUPXT6LInhDww60QOtfMKrzSBIgNFC22y6G7OvKfYXTc5cwckLVvKMUDRqhCVcuIxP6FkTOgoZ0QT4nlTl1uur4PIJ3A878TAd7MMOW%2Bn2Q%2FUrl8cySoegXvNJ%2F9%2Fwa&X-Amz-Signature=617f4da409bcd85e3a195cdf01f55673d852e8820438d99406c8ade2315e648f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
         "categories": [
           "资源"
         ],
@@ -900,6 +900,7 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
+        "cover": "",
         "categories": [
           "记录"
         ],
@@ -907,10 +908,15 @@
           "破解",
           "安卓"
         ],
+        "status": "已发布",
+        "banner": "",
         "publishDate": "2024-01-15",
+        "catalog": [],
         "urlname": "nouscrack",
         "description": "记一次电子班牌破解记录-诺识电子班牌",
-        "title": "记一次电子班牌破解记录"
+        "title": "记一次电子班牌破解记录",
+        "date": "2025-11-01 22:50:00",
+        "updated": "2025-11-01 23:26:00"
       },
       "url": "https://www.notion.so/29e919c5247080ea8171e21a74d93c4a",
       "public_url": "https://lyxyy.notion.site/29e919c5247080ea8171e21a74d93c4a"
@@ -938,16 +944,22 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
+        "cover": "https://cdn.xtawa.top/AgACAgEAAyEGAASlhh0RAAMXaHRdZmX4xgjvMoqxd_iIua6XIdAAAmyuMRt8LqFHvrJOSGSoDP0BAAMCAAN3AAM2BA.2obtcu57q6.webp",
         "categories": [
           "教程"
         ],
         "tags": [
           "roblox"
         ],
+        "status": "已发布",
+        "banner": "",
         "publishDate": "2025-07-11",
+        "catalog": [],
         "urlname": "robloxpcset",
         "description": "Roblox电脑端设置镜头晃动",
-        "title": "Roblox电脑端设置镜头移动"
+        "title": "Roblox电脑端设置镜头移动",
+        "date": "2025-11-01 18:33:00",
+        "updated": "2025-11-01 23:26:00"
       },
       "url": "https://www.notion.so/Roblox-29e919c5247080edbb81df7fe127e2a5",
       "public_url": "https://lyxyy.notion.site/Roblox-29e919c5247080edbb81df7fe127e2a5"
