@@ -43,10 +43,10 @@ jobs:
           token: ${{ secrets.ELOG_GITHUB_TOKEN }}
           user: ${{ secrets.ELOG_GITHUB_USER }}
           repo: ${{ secrets.ELOG_GITHUB_REPO }}
+
         run: |
           echo "ELOG_GITHUB_TOKEN is set: $ELOG_GITHUB_TOKEN"
           echo "ELOG_GITHUB_USER is set: $ELOG_GITHUB_USER"
-        run: |
           npm run sync 
 
       - name: 配置Git用户名邮箱
