@@ -40,7 +40,7 @@ jobs:
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
-          token: ${{ secrets.PIC_TOKEN }}
+          token: ${{ secrets.ELOG_GITHUB_TOKEN }}
           user: ${{ secrets.ELOG_GITHUB_USER }}
           repo: ${{ secrets.ELOG_GITHUB_REPO }}
         run: |
