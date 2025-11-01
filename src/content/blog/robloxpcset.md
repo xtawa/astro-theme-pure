@@ -21,7 +21,7 @@ title: Roblox电脑端设置镜头移动
 ### 1.确保操控设置与下图一致
 
 
-![AgACAgEAAyEGAASlhh0RAAMXaHRdZmX4xgjvMoqxd_iIua6XIdAAAmyuMRt8LqFHvrJOSGSoDP0BAAMCAAN3AAM2BA.2obtcu57q6.webp](https://cdn.xtawa.top/AgACAgEAAyEGAASlhh0RAAMXaHRdZmX4xgjvMoqxd_iIua6XIdAAAmyuMRt8LqFHvrJOSGSoDP0BAAMCAAN3AAM2BA.2obtcu57q6.webp)
+![AgACAgEAAyEGAASlhh0RAAMXaHRdZmX4xgjvMoqxd_iIua6XIdAAAmyuMRt8LqFHvrJOSGSoDP0BAAMCAAN3AAM2BA.2obtcu57q6.webp](https://raw.githubusercontent.com/xtawa/picx-images-hosting/master/6ee4fae74df08d85f1adc996663325bb.webp)
 
 
 ### 2.按下电脑“shift”键，即可设置镜头晃动。
@@ -30,8 +30,8 @@ title: Roblox电脑端设置镜头移动
 测试
 
 
-1111111
+1111111111
 
 
-![919c25e7-51eb-46c3-8600-7f3b89750c9e.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/5509e03d-c521-4d81-9e86-7c2b9dab44e3/919c25e7-51eb-46c3-8600-7f3b89750c9e.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662GSB3VDW%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T143625Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJIMEYCIQCyqGkX3GkVZvyOAy5aRLN96%2BI6qjrgvGf%2BtktgEIKErwIhAPbqHYld6cwDbvNuxc%2BwEpKKs1CX4SS%2BR5z4yo2Rls%2B0Kv8DCC4QABoMNjM3NDIzMTgzODA1IgxI4aE4jHqVXaPZovIq3AMN276W3U4x7edpedhJXBorm0uKtQiFpskAzq8MATUQf6cZXzkgnuVmkx6OrGpV6tdkt%2FQ5sLSv4wlB5qs313oIdplh8Yh1iZ4w%2FpWBi8FGkXPbGSiLppEviyVvs13HMp4ycVaMEEncSujAq7GQeAQ6pjmEiLuf9ZHo3vHJHZy%2B9ssSnd28tYYjO7Y%2B35SfGF6NEUyjq0YYKUv87BWOO9Qdv946TuWNL2ntcXFVI3X3sEX8eG1Tbrn964KLQfQfaWexJLwXv56A2oq1QaWvfmjb4yJwfMF846Bd02QYwvEj2%2BLRsNroluPW5YbEQebKKP%2BJhZz8Kus3GRUeDCpXgigBaIMLeDJ06O%2BcwTCZLihEcvOR6CV6EUKOMh3%2BWIK5tQjK4%2FhY4Zyj5O1vAF6yA9N8PzLDcxlDtx0BJESyp8Vw80boAtDzxGxl%2BpO066ltBGbPafxPiGGhXnHSAb4Rg97vaeCNhGfwxOmHEz%2FyJZQbSl3jzfHnvQFrHxiuao0Ax6Rp8M1uVL31XUPU2b6II072qWne3Y5voRiAm5BefuR4lykejxD%2FXMj2N80me30dH0M%2BlEf5RzFx%2FS%2BiAeSOI%2BvAAexWQ8L05LPJlNgbdsaeAxMKeDLHtWstdN0RZzCniJjIBjqkAX2cmoLerPHlBT1lK5K73n1oMOrA6ZpJbHAvnxaumDf%2FeeyzZmAH1YmODdNdGDWM71eHbaT%2BVmsAEkNfHiYqRwTYJyD49VJdpOobqLOU9hcfJFyy9Grb%2BE%2BaINvLzO70a82g8vJwJ0U1S%2BH0fZO703nDnmC86ZBvfnrqx6ayaVk56Ee7pWP%2FfrudQoznWGuNenVPI78V4zqzKXNayaKN%2Bb33RRl9&X-Amz-Signature=21fed74f53ff3ebbdd859f5bfeeb0491aed454d0c3825e397ddd228ea38ac4fb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![919c25e7-51eb-46c3-8600-7f3b89750c9e.jpg](https://raw.githubusercontent.com/xtawa/picx-images-hosting/master/df1dae11c11889c0819580256478bc2b.jpg)
 
