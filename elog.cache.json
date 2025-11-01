@@ -41,6 +41,28 @@
       "realName": "robloxpcset",
       "relativePath": "/robloxpcset.md",
       "docPath": "./src/content/blog"
+    },
+    {
+      "id": "29e919c5-2470-80ea-8171-e21a74d93c4a",
+      "doc_id": "29e919c5-2470-80ea-8171-e21a74d93c4a",
+      "updated": 1762008660000,
+      "properties": {
+        "categories": [
+          "记录"
+        ],
+        "tags": [
+          "破解",
+          "记录",
+          "教程"
+        ],
+        "publishDate": "2024-02-",
+        "urlname": "nouscrack",
+        "description": "",
+        "title": "记一次电子班牌破解记录"
+      },
+      "realName": "nouscrack",
+      "relativePath": "/nouscrack.md",
+      "docPath": "./src/content/blog"
     }
   ],
   "catalog": [
@@ -85,6 +107,45 @@
     },
     {
       "object": "page",
+      "id": "29e919c5-2470-80ea-8171-e21a74d93c4a",
+      "created_time": "2025-11-01T14:50:00.000Z",
+      "last_edited_time": "2025-11-01T14:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "29e919c5-2470-815c-a6f6-d55b9198e730"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "categories": [
+          "记录"
+        ],
+        "tags": [
+          "破解",
+          "记录",
+          "教程"
+        ],
+        "publishDate": "2024-02-",
+        "urlname": "nouscrack",
+        "description": "",
+        "title": "记一次电子班牌破解记录"
+      },
+      "url": "https://www.notion.so/29e919c5247080ea8171e21a74d93c4a",
+      "public_url": "https://lyxyy.notion.site/29e919c5247080ea8171e21a74d93c4a"
+    },
+    {
+      "object": "page",
       "id": "29e919c5-2470-80ed-bb81-df7fe127e2a5",
       "created_time": "2025-11-01T10:33:00.000Z",
       "last_edited_time": "2025-11-01T14:41:00.000Z",
@@ -106,16 +167,22 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
+        "cover": "https://cdn.xtawa.top/AgACAgEAAyEGAASlhh0RAAMXaHRdZmX4xgjvMoqxd_iIua6XIdAAAmyuMRt8LqFHvrJOSGSoDP0BAAMCAAN3AAM2BA.2obtcu57q6.webp",
         "categories": [
           "教程"
         ],
         "tags": [
           "roblox"
         ],
+        "status": "已发布",
+        "banner": "",
         "publishDate": "2025-11-01",
+        "catalog": [],
         "urlname": "robloxpcset",
         "description": "Roblox电脑端设置镜头晃动",
-        "title": "Roblox电脑端设置镜头移动"
+        "title": "Roblox电脑端设置镜头移动",
+        "date": "2025-11-01 18:33:00",
+        "updated": "2025-11-01 22:41:00"
       },
       "url": "https://www.notion.so/Roblox-29e919c5247080edbb81df7fe127e2a5",
       "public_url": "https://lyxyy.notion.site/Roblox-29e919c5247080edbb81df7fe127e2a5"
