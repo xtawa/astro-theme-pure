@@ -2,7 +2,7 @@ name: Sync Docs
 
 on:
   # 允许手动push触发
-#  push:
+# push:
 #    branches:
 #      - master
   # 允许外部仓库事件触发
@@ -23,10 +23,18 @@ jobs:
         with:
           node-version: "16.x"
 
-      - name: 安装依赖
+      - name: 安装依赖 (生产环境)
         run: |
           export TZ='Asia/Shanghai'
           npm install --prod
+
+      # -------------------------------------------------------------------
+      # 新增步骤：安装 @elog/cli
+      - name: 安装 Elog CLI
+        run: npm install @elog/cli 
+        # 注意：如果 @elog/cli 是项目的 devDependencies，npm install --prod 不会安装它。
+        # 如果它需要在全局使用，可以使用： run: npm install -g @elog/cli
+      # -------------------------------------------------------------------
 
       - name: 拉取文档
         env:
