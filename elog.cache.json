@@ -23,224 +23,6 @@
       "docPath": "./src/content/blog"
     },
     {
-      "id": "29e919c5-2470-80ed-bb81-df7fe127e2a5",
-      "doc_id": "29e919c5-2470-80ed-bb81-df7fe127e2a5",
-      "updated": 1762010760000,
-      "properties": {
-        "categories": [
-          "教程"
-        ],
-        "tags": [
-          "roblox"
-        ],
-        "publishDate": "2025-07-11",
-        "urlname": "robloxpcset",
-        "description": "Roblox电脑端设置镜头晃动",
-        "title": "Roblox电脑端设置镜头移动"
-      },
-      "realName": "robloxpcset",
-      "relativePath": "/robloxpcset.md",
-      "docPath": "./src/content/blog"
-    },
-    {
-      "id": "29e919c5-2470-80ea-8171-e21a74d93c4a",
-      "doc_id": "29e919c5-2470-80ea-8171-e21a74d93c4a",
-      "updated": 1762012860000,
-      "properties": {
-        "categories": [
-          "记录"
-        ],
-        "tags": [
-          "破解",
-          "安卓"
-        ],
-        "publishDate": "2024-01-15",
-        "urlname": "nouscrack",
-        "description": "记一次电子班牌破解记录-诺识电子班牌",
-        "title": "记一次电子班牌破解记录"
-      },
-      "realName": "nouscrack",
-      "relativePath": "/nouscrack.md",
-      "docPath": "./src/content/blog"
-    },
-    {
-      "id": "29e919c5-2470-8001-a94a-f4fdc61b0242",
-      "doc_id": "29e919c5-2470-8001-a94a-f4fdc61b0242",
-      "updated": 1762009380000,
-      "properties": {
-        "categories": [
-          "资源"
-        ],
-        "tags": [
-          "Wear",
-          "手表",
-          "刷机"
-        ],
-        "publishDate": "2025-07-19",
-        "urlname": "samsungwearflash",
-        "description": "三星Watch4 SM-R860刷机资源，含US/CN刷机包",
-        "title": "三星Watch4 SM-R860刷机资源 "
-      },
-      "realName": "samsungwearflash",
-      "relativePath": "/samsungwearflash.md",
-      "docPath": "./src/content/blog"
-    },
-    {
-      "id": "29e919c5-2470-8007-a5d8-c14f6a33d04b",
-      "doc_id": "29e919c5-2470-8007-a5d8-c14f6a33d04b",
-      "updated": 1762010760000,
-      "properties": {
-        "categories": [
-          "博客折腾手册",
-          "教程"
-        ],
-        "tags": [
-          "建站",
-          "博客"
-        ],
-        "publishDate": "2025-07-19",
-        "urlname": "indexnowcli",
-        "description": "手动提交Indexnow的教程",
-        "title": "Indexnow Python提交脚本"
-      },
-      "realName": "indexnowcli",
-      "relativePath": "/indexnowcli.md",
-      "docPath": "./src/content/blog"
-    },
-    {
-      "id": "29e919c5-2470-8074-853d-d7cc8f489355",
-      "doc_id": "29e919c5-2470-8074-853d-d7cc8f489355",
-      "updated": 1762012920000,
-      "properties": {
-        "categories": [
-          "生活"
-        ],
-        "tags": [
-          "记录",
-          "摄影"
-        ],
-        "publishDate": "2025-07-16",
-        "urlname": "travel250719pic",
-        "description": "2025-07-16坐飞机时通过ACG相机调色随手拍下的照片",
-        "title": "没有技巧，全靠调色"
-      },
-      "realName": "travel250719pic",
-      "relativePath": "/travel250719pic.md",
-      "docPath": "./src/content/blog"
-    },
-    {
-      "id": "29e919c5-2470-807a-b2fb-e1c2964217ee",
-      "doc_id": "29e919c5-2470-807a-b2fb-e1c2964217ee",
-      "updated": 1762009320000,
-      "properties": {
-        "categories": [
-          "资源"
-        ],
-        "tags": [
-          "Wear",
-          "手表",
-          "刷机"
-        ],
-        "publishDate": "2024-02-01",
-        "urlname": "tic-pro3-fact-pack",
-        "description": "Ticwatch Pro 3 刷机资源分享，含自用包与工厂包",
-        "title": "Ticwatch Pro 3 刷机资源分享"
-      },
-      "realName": "tic-pro3-fact-pack",
-      "relativePath": "/tic-pro3-fact-pack.md",
-      "docPath": "./src/content/blog"
-    },
-    {
-      "id": "29e919c5-2470-8044-99d1-d30fbf8c05df",
-      "doc_id": "29e919c5-2470-8044-99d1-d30fbf8c05df",
-      "updated": 1762009080000,
-      "properties": {
-        "categories": [
-          "教程"
-        ],
-        "tags": [
-          "Web3",
-          "建站",
-          "工具"
-        ],
-        "publishDate": "2025-10-03",
-        "urlname": "web3-domain-apply",
-        "description": "教你申请一个Web3域名",
-        "title": "教你申请一个Web3域名"
-      },
-      "realName": "web3-domain-apply",
-      "relativePath": "/web3-domain-apply.md",
-      "docPath": "./src/content/blog"
-    },
-    {
-      "id": "29e919c5-2470-8098-b63e-efd328a3f3bc",
-      "doc_id": "29e919c5-2470-8098-b63e-efd328a3f3bc",
-      "updated": 1762012860000,
-      "properties": {
-        "categories": [
-          "教程"
-        ],
-        "tags": [
-          "建站",
-          "工具",
-          "图床",
-          "PicX"
-        ],
-        "publishDate": "2025-07-14",
-        "urlname": "vercel-cdnpic",
-        "description": "使用Vercel+PicX加速Github图床",
-        "title": "使用Vercel+PicX加速Github图床"
-      },
-      "realName": "vercel-cdnpic",
-      "relativePath": "/vercel-cdnpic.md",
-      "docPath": "./src/content/blog"
-    },
-    {
-      "id": "29e919c5-2470-80a4-96a3-d63873b309ca",
-      "doc_id": "29e919c5-2470-80a4-96a3-d63873b309ca",
-      "updated": 1762012860000,
-      "properties": {
-        "categories": [
-          "教程"
-        ],
-        "tags": [
-          "建站",
-          "博客",
-          "主题",
-          "Fuwari"
-        ],
-        "publishDate": "2025-07-17",
-        "urlname": "bingbanner",
-        "description": "为Fuwari主题Banner设置每日Bing壁纸的教程",
-        "title": "为Fuwari主题Banner设置每日Bing壁纸"
-      },
-      "realName": "bingbanner",
-      "relativePath": "/bingbanner.md",
-      "docPath": "./src/content/blog"
-    },
-    {
-      "id": "29e919c5-2470-8040-8640-c61f1c5c38c5",
-      "doc_id": "29e919c5-2470-8040-8640-c61f1c5c38c5",
-      "updated": 1762009440000,
-      "properties": {
-        "categories": [
-          "教程"
-        ],
-        "tags": [
-          "树莓派",
-          "Docker",
-          "Openwrt"
-        ],
-        "publishDate": "2025-07-10",
-        "urlname": "rpi4b-docker-openwrt",
-        "description": "树莓派4B Docker环境安装OpenWrt及配置代理服务",
-        "title": "树莓派4B Docker环境安装OpenWrt及配置代理服务"
-      },
-      "realName": "rpi4b-docker-openwrt",
-      "relativePath": "/rpi4b-docker-openwrt.md",
-      "docPath": "./src/content/blog"
-    },
-    {
       "id": "29e919c5-2470-8030-a1d1-ecff60f9e563",
       "doc_id": "29e919c5-2470-8030-a1d1-ecff60f9e563",
       "updated": 1762012920000,
@@ -261,109 +43,30 @@
       "realName": "elog-deploy-hard",
       "relativePath": "/elog-deploy-hard.md",
       "docPath": "./src/content/blog"
+    },
+    {
+      "id": "29e919c5-2470-807c-b501-deba17a3c317",
+      "doc_id": "29e919c5-2470-807c-b501-deba17a3c317",
+      "updated": 1762013820000,
+      "properties": {
+        "categories": [
+          "博客折腾手册"
+        ],
+        "tags": [
+          "notion",
+          "建站"
+        ],
+        "publishDate": "2025-11-02",
+        "urlname": "qa-about-oldposts",
+        "description": "QA",
+        "title": "关于旧文章的去存问题"
+      },
+      "realName": "qa-about-oldposts",
+      "relativePath": "/qa-about-oldposts.md",
+      "docPath": "./src/content/blog"
     }
   ],
   "catalog": [
-    {
-      "object": "page",
-      "id": "29e919c5-2470-8001-a94a-f4fdc61b0242",
-      "created_time": "2025-11-01T14:51:00.000Z",
-      "last_edited_time": "2025-11-01T15:03:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "cover": {
-        "type": "external",
-        "external": {
-          "url": "https://www.notion.so/images/page-cover/gradients_11.jpg"
-        }
-      },
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "29e919c5-2470-815c-a6f6-d55b9198e730"
-      },
-      "archived": false,
-      "in_trash": false,
-      "is_locked": false,
-      "properties": {
-        "cover": "https://www.notion.so/images/page-cover/gradients_11.jpg",
-        "categories": [
-          "资源"
-        ],
-        "tags": [
-          "Wear",
-          "手表",
-          "刷机"
-        ],
-        "status": "已发布",
-        "banner": "",
-        "publishDate": "2025-07-19",
-        "catalog": [],
-        "urlname": "samsungwearflash",
-        "description": "三星Watch4 SM-R860刷机资源，含US/CN刷机包",
-        "title": "三星Watch4 SM-R860刷机资源 ",
-        "date": "2025-11-01 22:51:00",
-        "updated": "2025-11-01 23:03:00"
-      },
-      "url": "https://www.notion.so/Watch4-SM-R860-29e919c524708001a94af4fdc61b0242",
-      "public_url": "https://lyxyy.notion.site/Watch4-SM-R860-29e919c524708001a94af4fdc61b0242"
-    },
-    {
-      "object": "page",
-      "id": "29e919c5-2470-8007-a5d8-c14f6a33d04b",
-      "created_time": "2025-11-01T14:51:00.000Z",
-      "last_edited_time": "2025-11-01T15:26:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "cover": {
-        "type": "external",
-        "external": {
-          "url": "https://www.notion.so/images/page-cover/solid_beige.png"
-        }
-      },
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "29e919c5-2470-815c-a6f6-d55b9198e730"
-      },
-      "archived": false,
-      "in_trash": false,
-      "is_locked": false,
-      "properties": {
-        "cover": "https://www.notion.so/images/page-cover/solid_beige.png",
-        "categories": [
-          "博客折腾手册",
-          "教程"
-        ],
-        "tags": [
-          "建站",
-          "博客"
-        ],
-        "status": "已发布",
-        "banner": "",
-        "publishDate": "2025-07-19",
-        "catalog": [],
-        "urlname": "indexnowcli",
-        "description": "手动提交Indexnow的教程",
-        "title": "Indexnow Python提交脚本",
-        "date": "2025-11-01 22:51:00",
-        "updated": "2025-11-01 23:26:00"
-      },
-      "url": "https://www.notion.so/Indexnow-Python-29e919c524708007a5d8c14f6a33d04b",
-      "public_url": "https://lyxyy.notion.site/Indexnow-Python-29e919c524708007a5d8c14f6a33d04b"
-    },
     {
       "object": "page",
       "id": "29e919c5-2470-8030-a1d1-ecff60f9e563",
@@ -387,6 +90,7 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
+        "cover": "",
         "categories": [
           "生活"
         ],
@@ -395,19 +99,24 @@
           "建站",
           "记录"
         ],
+        "status": "已发布",
+        "banner": "",
         "publishDate": "2025-11-01",
+        "catalog": [],
         "urlname": "elog-deploy-hard",
         "description": "太费劲了 花了很多时间在astro上部署elog",
-        "title": "部署Elog要死了"
+        "title": "部署Elog要死了",
+        "date": "2025-11-01 23:13:00",
+        "updated": "2025-11-02 00:02:00"
       },
       "url": "https://www.notion.so/Elog-29e919c524708030a1d1ecff60f9e563",
       "public_url": "https://lyxyy.notion.site/Elog-29e919c524708030a1d1ecff60f9e563"
     },
     {
       "object": "page",
-      "id": "29e919c5-2470-8040-8640-c61f1c5c38c5",
-      "created_time": "2025-11-01T14:51:00.000Z",
-      "last_edited_time": "2025-11-01T15:04:00.000Z",
+      "id": "29e919c5-2470-807c-b501-deba17a3c317",
+      "created_time": "2025-11-01T16:16:00.000Z",
+      "last_edited_time": "2025-11-01T16:17:00.000Z",
       "created_by": {
         "object": "user",
         "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
@@ -416,113 +125,7 @@
         "object": "user",
         "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
       },
-      "cover": {
-        "type": "file",
-        "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/3df4efcf-3528-483b-959a-7b802d0f7b07/5318.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Q56VCXA5%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T160339Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJIMEYCIQDodSyYtbQBKLSa7mGL5Es%2FR1Clh286aMsmcanDxpxyfwIhAMc9qbBkoagV4feq%2Fm0ybHvSv%2Bx%2B%2BRbwf%2FZeB0KezBluKv8DCC4QABoMNjM3NDIzMTgzODA1IgzfwDUmYU%2FvUK19%2BqMq3AMgF2EJJNnxk6MitsWfbL69otfZIxd8JCJWn6mdfXZzAnW%2FqTu7Wdd8MHtGHLkZqXIu4yYKxud%2BaTh%2Byl49Susl1rzOsbhqOxmbChjlVH%2BN%2BjJygPYWjOgLoT2f0K7%2FS31PuCtZkPlYHPj81G1lQFGT5%2B1SNJwlBqwhPzrAt5Dr%2Frz4xtVXAe4KL1H9UByk8gAYbJTyQsFjl%2BYxT09DkrUkwPN93Q1VmiVbCe391cMhnacjKVW9DIR3K%2BPNBS0SW5m2WMWcJKWS%2B0ZOac3vpQXYud%2FLQDcXDPIHQMJf6g4EiyaILSuTaQxK5gWRAZaH0k9C15IKmvdnbX3VMHW2pbyJsqP4PXpnZT47AfOAnAmDGhwkpRWNjDGBT3oV3iQoM68b83csy5RaFkAtLje5XhoHLAuZ806%2FWfgjBiTh6Ur0YveOicPjrTnodoegD%2BJpc3gaVt24RRV6mqsC3AZaoTWyCNm%2FEU6Mm0r1grvaCRr0JArmn40vBHxQaiLsts9tAFbfzPm3RkifnHySmdkLhHJTprZcQiH5dAytr%2FAfBNfboI58WBZZNRl6%2Bfk0yBRt1OIaKqgGpK6sxhtv5PnPMzSnBM%2BoQrgvaS6WC1IvZQq0n3nUt7vVSWTmY6LyfjD7jJjIBjqkAQ2Z9lPOZjkTmCJnOpyeGv4YqiLfVN7iSGA4xT0iTjtYGDq21Es5JBtVCQQVkb6NPXUtnR2ZEeJKtZm4AN5vxKFLDgW6kMj036pvKEbJPkz%2BSqDID3OpyBenVyC2vxiT%2FwycNs1LLYmJIIhScY2WBRsOmztK192%2BZBFV507dQwdaS%2F7Z0Q5kdLtFcjD9rHTBb1hENnxWz3HAwCzcxY73jRwjIRwn&X-Amz-Signature=6f20302bfec253d04a1c14842738738c2ac689a1e1f142366db75b49d7bab26b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-          "expiry_time": "2025-11-01T17:03:39.500Z"
-        }
-      },
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "29e919c5-2470-815c-a6f6-d55b9198e730"
-      },
-      "archived": false,
-      "in_trash": false,
-      "is_locked": false,
-      "properties": {
-        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/3df4efcf-3528-483b-959a-7b802d0f7b07/5318.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Q56VCXA5%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T160339Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJIMEYCIQDodSyYtbQBKLSa7mGL5Es%2FR1Clh286aMsmcanDxpxyfwIhAMc9qbBkoagV4feq%2Fm0ybHvSv%2Bx%2B%2BRbwf%2FZeB0KezBluKv8DCC4QABoMNjM3NDIzMTgzODA1IgzfwDUmYU%2FvUK19%2BqMq3AMgF2EJJNnxk6MitsWfbL69otfZIxd8JCJWn6mdfXZzAnW%2FqTu7Wdd8MHtGHLkZqXIu4yYKxud%2BaTh%2Byl49Susl1rzOsbhqOxmbChjlVH%2BN%2BjJygPYWjOgLoT2f0K7%2FS31PuCtZkPlYHPj81G1lQFGT5%2B1SNJwlBqwhPzrAt5Dr%2Frz4xtVXAe4KL1H9UByk8gAYbJTyQsFjl%2BYxT09DkrUkwPN93Q1VmiVbCe391cMhnacjKVW9DIR3K%2BPNBS0SW5m2WMWcJKWS%2B0ZOac3vpQXYud%2FLQDcXDPIHQMJf6g4EiyaILSuTaQxK5gWRAZaH0k9C15IKmvdnbX3VMHW2pbyJsqP4PXpnZT47AfOAnAmDGhwkpRWNjDGBT3oV3iQoM68b83csy5RaFkAtLje5XhoHLAuZ806%2FWfgjBiTh6Ur0YveOicPjrTnodoegD%2BJpc3gaVt24RRV6mqsC3AZaoTWyCNm%2FEU6Mm0r1grvaCRr0JArmn40vBHxQaiLsts9tAFbfzPm3RkifnHySmdkLhHJTprZcQiH5dAytr%2FAfBNfboI58WBZZNRl6%2Bfk0yBRt1OIaKqgGpK6sxhtv5PnPMzSnBM%2BoQrgvaS6WC1IvZQq0n3nUt7vVSWTmY6LyfjD7jJjIBjqkAQ2Z9lPOZjkTmCJnOpyeGv4YqiLfVN7iSGA4xT0iTjtYGDq21Es5JBtVCQQVkb6NPXUtnR2ZEeJKtZm4AN5vxKFLDgW6kMj036pvKEbJPkz%2BSqDID3OpyBenVyC2vxiT%2FwycNs1LLYmJIIhScY2WBRsOmztK192%2BZBFV507dQwdaS%2F7Z0Q5kdLtFcjD9rHTBb1hENnxWz3HAwCzcxY73jRwjIRwn&X-Amz-Signature=6f20302bfec253d04a1c14842738738c2ac689a1e1f142366db75b49d7bab26b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-        "categories": [
-          "教程"
-        ],
-        "tags": [
-          "树莓派",
-          "Docker",
-          "Openwrt"
-        ],
-        "status": "已发布",
-        "banner": "",
-        "publishDate": "2025-07-10",
-        "catalog": [],
-        "urlname": "rpi4b-docker-openwrt",
-        "description": "树莓派4B Docker环境安装OpenWrt及配置代理服务",
-        "title": "树莓派4B Docker环境安装OpenWrt及配置代理服务",
-        "date": "2025-11-01 22:51:00",
-        "updated": "2025-11-01 23:04:00"
-      },
-      "url": "https://www.notion.so/4B-Docker-OpenWrt-29e919c5247080408640c61f1c5c38c5",
-      "public_url": "https://lyxyy.notion.site/4B-Docker-OpenWrt-29e919c5247080408640c61f1c5c38c5"
-    },
-    {
-      "object": "page",
-      "id": "29e919c5-2470-8044-99d1-d30fbf8c05df",
-      "created_time": "2025-11-01T14:51:00.000Z",
-      "last_edited_time": "2025-11-01T14:58:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "cover": {
-        "type": "external",
-        "external": {
-          "url": "https://cdn.xtawa.top/coisini.2328yrbhyw.svg"
-        }
-      },
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "29e919c5-2470-815c-a6f6-d55b9198e730"
-      },
-      "archived": false,
-      "in_trash": false,
-      "is_locked": false,
-      "properties": {
-        "cover": "https://cdn.xtawa.top/coisini.2328yrbhyw.svg",
-        "categories": [
-          "教程"
-        ],
-        "tags": [
-          "Web3",
-          "建站",
-          "工具"
-        ],
-        "status": "已发布",
-        "banner": "",
-        "publishDate": "2025-10-03",
-        "catalog": [],
-        "urlname": "web3-domain-apply",
-        "description": "教你申请一个Web3域名",
-        "title": "教你申请一个Web3域名",
-        "date": "2025-11-01 22:51:00",
-        "updated": "2025-11-01 22:58:00"
-      },
-      "url": "https://www.notion.so/Web3-29e919c52470804499d1d30fbf8c05df",
-      "public_url": "https://lyxyy.notion.site/Web3-29e919c52470804499d1d30fbf8c05df"
-    },
-    {
-      "object": "page",
-      "id": "29e919c5-2470-8074-853d-d7cc8f489355",
-      "created_time": "2025-11-01T14:51:00.000Z",
-      "last_edited_time": "2025-11-01T16:02:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "cover": {
-        "type": "external",
-        "external": {
-          "url": "https://cdn.xtawa.top/AGC9%C3%97NewFS_END_20250716_145322041.6wr0tu8pa2.webp"
-        }
-      },
+      "cover": null,
       "icon": null,
       "parent": {
         "type": "database_id",
@@ -533,160 +136,19 @@
       "is_locked": false,
       "properties": {
         "categories": [
-          "生活"
+          "博客折腾手册"
         ],
         "tags": [
-          "记录",
-          "摄影"
+          "notion",
+          "建站"
         ],
-        "publishDate": "2025-07-16",
-        "urlname": "travel250719pic",
-        "description": "2025-07-16坐飞机时通过ACG相机调色随手拍下的照片",
-        "title": "没有技巧，全靠调色"
+        "publishDate": "2025-11-02",
+        "urlname": "qa-about-oldposts",
+        "description": "QA",
+        "title": "关于旧文章的去存问题"
       },
-      "url": "https://www.notion.so/29e919c524708074853dd7cc8f489355",
-      "public_url": "https://lyxyy.notion.site/29e919c524708074853dd7cc8f489355"
-    },
-    {
-      "object": "page",
-      "id": "29e919c5-2470-807a-b2fb-e1c2964217ee",
-      "created_time": "2025-11-01T14:51:00.000Z",
-      "last_edited_time": "2025-11-01T15:02:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "cover": {
-        "type": "file",
-        "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/60813ac9-7365-4569-bf77-fce27f33cc9c/5319.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Q56VCXA5%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T160339Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJIMEYCIQDodSyYtbQBKLSa7mGL5Es%2FR1Clh286aMsmcanDxpxyfwIhAMc9qbBkoagV4feq%2Fm0ybHvSv%2Bx%2B%2BRbwf%2FZeB0KezBluKv8DCC4QABoMNjM3NDIzMTgzODA1IgzfwDUmYU%2FvUK19%2BqMq3AMgF2EJJNnxk6MitsWfbL69otfZIxd8JCJWn6mdfXZzAnW%2FqTu7Wdd8MHtGHLkZqXIu4yYKxud%2BaTh%2Byl49Susl1rzOsbhqOxmbChjlVH%2BN%2BjJygPYWjOgLoT2f0K7%2FS31PuCtZkPlYHPj81G1lQFGT5%2B1SNJwlBqwhPzrAt5Dr%2Frz4xtVXAe4KL1H9UByk8gAYbJTyQsFjl%2BYxT09DkrUkwPN93Q1VmiVbCe391cMhnacjKVW9DIR3K%2BPNBS0SW5m2WMWcJKWS%2B0ZOac3vpQXYud%2FLQDcXDPIHQMJf6g4EiyaILSuTaQxK5gWRAZaH0k9C15IKmvdnbX3VMHW2pbyJsqP4PXpnZT47AfOAnAmDGhwkpRWNjDGBT3oV3iQoM68b83csy5RaFkAtLje5XhoHLAuZ806%2FWfgjBiTh6Ur0YveOicPjrTnodoegD%2BJpc3gaVt24RRV6mqsC3AZaoTWyCNm%2FEU6Mm0r1grvaCRr0JArmn40vBHxQaiLsts9tAFbfzPm3RkifnHySmdkLhHJTprZcQiH5dAytr%2FAfBNfboI58WBZZNRl6%2Bfk0yBRt1OIaKqgGpK6sxhtv5PnPMzSnBM%2BoQrgvaS6WC1IvZQq0n3nUt7vVSWTmY6LyfjD7jJjIBjqkAQ2Z9lPOZjkTmCJnOpyeGv4YqiLfVN7iSGA4xT0iTjtYGDq21Es5JBtVCQQVkb6NPXUtnR2ZEeJKtZm4AN5vxKFLDgW6kMj036pvKEbJPkz%2BSqDID3OpyBenVyC2vxiT%2FwycNs1LLYmJIIhScY2WBRsOmztK192%2BZBFV507dQwdaS%2F7Z0Q5kdLtFcjD9rHTBb1hENnxWz3HAwCzcxY73jRwjIRwn&X-Amz-Signature=e38c46746e7b43dd9e1bb5634294a9ea8c905f023e09923380f4c0cea72b0884&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-          "expiry_time": "2025-11-01T17:03:39.500Z"
-        }
-      },
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "29e919c5-2470-815c-a6f6-d55b9198e730"
-      },
-      "archived": false,
-      "in_trash": false,
-      "is_locked": false,
-      "properties": {
-        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/9834e348-8d5f-43ef-acac-a5fe1cd8bd1e/60813ac9-7365-4569-bf77-fce27f33cc9c/5319.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466Q56VCXA5%2F20251101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251101T160339Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGUaCXVzLXdlc3QtMiJIMEYCIQDodSyYtbQBKLSa7mGL5Es%2FR1Clh286aMsmcanDxpxyfwIhAMc9qbBkoagV4feq%2Fm0ybHvSv%2Bx%2B%2BRbwf%2FZeB0KezBluKv8DCC4QABoMNjM3NDIzMTgzODA1IgzfwDUmYU%2FvUK19%2BqMq3AMgF2EJJNnxk6MitsWfbL69otfZIxd8JCJWn6mdfXZzAnW%2FqTu7Wdd8MHtGHLkZqXIu4yYKxud%2BaTh%2Byl49Susl1rzOsbhqOxmbChjlVH%2BN%2BjJygPYWjOgLoT2f0K7%2FS31PuCtZkPlYHPj81G1lQFGT5%2B1SNJwlBqwhPzrAt5Dr%2Frz4xtVXAe4KL1H9UByk8gAYbJTyQsFjl%2BYxT09DkrUkwPN93Q1VmiVbCe391cMhnacjKVW9DIR3K%2BPNBS0SW5m2WMWcJKWS%2B0ZOac3vpQXYud%2FLQDcXDPIHQMJf6g4EiyaILSuTaQxK5gWRAZaH0k9C15IKmvdnbX3VMHW2pbyJsqP4PXpnZT47AfOAnAmDGhwkpRWNjDGBT3oV3iQoM68b83csy5RaFkAtLje5XhoHLAuZ806%2FWfgjBiTh6Ur0YveOicPjrTnodoegD%2BJpc3gaVt24RRV6mqsC3AZaoTWyCNm%2FEU6Mm0r1grvaCRr0JArmn40vBHxQaiLsts9tAFbfzPm3RkifnHySmdkLhHJTprZcQiH5dAytr%2FAfBNfboI58WBZZNRl6%2Bfk0yBRt1OIaKqgGpK6sxhtv5PnPMzSnBM%2BoQrgvaS6WC1IvZQq0n3nUt7vVSWTmY6LyfjD7jJjIBjqkAQ2Z9lPOZjkTmCJnOpyeGv4YqiLfVN7iSGA4xT0iTjtYGDq21Es5JBtVCQQVkb6NPXUtnR2ZEeJKtZm4AN5vxKFLDgW6kMj036pvKEbJPkz%2BSqDID3OpyBenVyC2vxiT%2FwycNs1LLYmJIIhScY2WBRsOmztK192%2BZBFV507dQwdaS%2F7Z0Q5kdLtFcjD9rHTBb1hENnxWz3HAwCzcxY73jRwjIRwn&X-Amz-Signature=e38c46746e7b43dd9e1bb5634294a9ea8c905f023e09923380f4c0cea72b0884&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-        "categories": [
-          "资源"
-        ],
-        "tags": [
-          "Wear",
-          "手表",
-          "刷机"
-        ],
-        "status": "已发布",
-        "banner": "",
-        "publishDate": "2024-02-01",
-        "catalog": [],
-        "urlname": "tic-pro3-fact-pack",
-        "description": "Ticwatch Pro 3 刷机资源分享，含自用包与工厂包",
-        "title": "Ticwatch Pro 3 刷机资源分享",
-        "date": "2025-11-01 22:51:00",
-        "updated": "2025-11-01 23:02:00"
-      },
-      "url": "https://www.notion.so/Ticwatch-Pro-3-29e919c52470807ab2fbe1c2964217ee",
-      "public_url": "https://lyxyy.notion.site/Ticwatch-Pro-3-29e919c52470807ab2fbe1c2964217ee"
-    },
-    {
-      "object": "page",
-      "id": "29e919c5-2470-8098-b63e-efd328a3f3bc",
-      "created_time": "2025-11-01T14:51:00.000Z",
-      "last_edited_time": "2025-11-01T16:01:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "cover": {
-        "type": "external",
-        "external": {
-          "url": "https://www.notion.so/images/page-cover/nasa_transonic_tunnel.jpg"
-        }
-      },
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "29e919c5-2470-815c-a6f6-d55b9198e730"
-      },
-      "archived": false,
-      "in_trash": false,
-      "is_locked": false,
-      "properties": {
-        "categories": [
-          "教程"
-        ],
-        "tags": [
-          "建站",
-          "工具",
-          "图床",
-          "PicX"
-        ],
-        "publishDate": "2025-07-14",
-        "urlname": "vercel-cdnpic",
-        "description": "使用Vercel+PicX加速Github图床",
-        "title": "使用Vercel+PicX加速Github图床"
-      },
-      "url": "https://www.notion.so/Vercel-PicX-Github-29e919c524708098b63eefd328a3f3bc",
-      "public_url": "https://lyxyy.notion.site/Vercel-PicX-Github-29e919c524708098b63eefd328a3f3bc"
-    },
-    {
-      "object": "page",
-      "id": "29e919c5-2470-80a4-96a3-d63873b309ca",
-      "created_time": "2025-11-01T14:51:00.000Z",
-      "last_edited_time": "2025-11-01T16:01:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "cover": {
-        "type": "external",
-        "external": {
-          "url": "https://bing.img.run/1366x768.php"
-        }
-      },
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "29e919c5-2470-815c-a6f6-d55b9198e730"
-      },
-      "archived": false,
-      "in_trash": false,
-      "is_locked": false,
-      "properties": {
-        "categories": [
-          "教程"
-        ],
-        "tags": [
-          "建站",
-          "博客",
-          "主题",
-          "Fuwari"
-        ],
-        "publishDate": "2025-07-17",
-        "urlname": "bingbanner",
-        "description": "为Fuwari主题Banner设置每日Bing壁纸的教程",
-        "title": "为Fuwari主题Banner设置每日Bing壁纸"
-      },
-      "url": "https://www.notion.so/Fuwari-Banner-Bing-29e919c5247080a496a3d63873b309ca",
-      "public_url": "https://lyxyy.notion.site/Fuwari-Banner-Bing-29e919c5247080a496a3d63873b309ca"
+      "url": "https://www.notion.so/29e919c52470807cb501deba17a3c317",
+      "public_url": "https://lyxyy.notion.site/29e919c52470807cb501deba17a3c317"
     },
     {
       "object": "page",
@@ -726,87 +188,6 @@
       },
       "url": "https://www.notion.so/29e919c5247080e4b4f9f0fda4e5aca4",
       "public_url": "https://lyxyy.notion.site/29e919c5247080e4b4f9f0fda4e5aca4"
-    },
-    {
-      "object": "page",
-      "id": "29e919c5-2470-80ea-8171-e21a74d93c4a",
-      "created_time": "2025-11-01T14:50:00.000Z",
-      "last_edited_time": "2025-11-01T16:01:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "cover": null,
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "29e919c5-2470-815c-a6f6-d55b9198e730"
-      },
-      "archived": false,
-      "in_trash": false,
-      "is_locked": false,
-      "properties": {
-        "categories": [
-          "记录"
-        ],
-        "tags": [
-          "破解",
-          "安卓"
-        ],
-        "publishDate": "2024-01-15",
-        "urlname": "nouscrack",
-        "description": "记一次电子班牌破解记录-诺识电子班牌",
-        "title": "记一次电子班牌破解记录"
-      },
-      "url": "https://www.notion.so/29e919c5247080ea8171e21a74d93c4a",
-      "public_url": "https://lyxyy.notion.site/29e919c5247080ea8171e21a74d93c4a"
-    },
-    {
-      "object": "page",
-      "id": "29e919c5-2470-80ed-bb81-df7fe127e2a5",
-      "created_time": "2025-11-01T10:33:00.000Z",
-      "last_edited_time": "2025-11-01T15:26:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "cover": null,
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "29e919c5-2470-815c-a6f6-d55b9198e730"
-      },
-      "archived": false,
-      "in_trash": false,
-      "is_locked": false,
-      "properties": {
-        "cover": "https://cdn.xtawa.top/AgACAgEAAyEGAASlhh0RAAMXaHRdZmX4xgjvMoqxd_iIua6XIdAAAmyuMRt8LqFHvrJOSGSoDP0BAAMCAAN3AAM2BA.2obtcu57q6.webp",
-        "categories": [
-          "教程"
-        ],
-        "tags": [
-          "roblox"
-        ],
-        "status": "已发布",
-        "banner": "",
-        "publishDate": "2025-07-11",
-        "catalog": [],
-        "urlname": "robloxpcset",
-        "description": "Roblox电脑端设置镜头晃动",
-        "title": "Roblox电脑端设置镜头移动",
-        "date": "2025-11-01 18:33:00",
-        "updated": "2025-11-01 23:26:00"
-      },
-      "url": "https://www.notion.so/Roblox-29e919c5247080edbb81df7fe127e2a5",
-      "public_url": "https://lyxyy.notion.site/Roblox-29e919c5247080edbb81df7fe127e2a5"
     }
   ]
 }
