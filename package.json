@@ -1,13 +1,12 @@
 {
   "name": "astro-theme-pure",
-
   "version": "4.0.8",
   "scripts": {
     "dev": "astro dev",
     "dev:check": "astro check --watch & astro dev",
     "build": "astro-pure check && astro check && astro build",
     "preview": "astro preview",
-    "sync": "astro sync",
+    "sync": "elog sync",
     "check": "astro check",
     "astro": "astro",
     "pure": "astro-pure",
@@ -15,16 +14,15 @@
     "format": "prettier --write  '**/*.{js,jsx,ts,tsx,md,mdx,astro}'",
     "lint": "eslint --fix 'src/**/*.{js,ts,jsx,tsx,astro}'",
     "yijiansilian": "bun lint && bun sync && bun check && bun format",
-    "clean": "rm -rf .astro .vercel dist",
+    "clean": "elog clean",
     "elog:init": "elog init",
-    "sync:local": "elog sync -e .elog.env", 
-    "sync": "elog sync", 
-    "clean": "elog clean"
+    "sync:local": "elog sync -e .elog.env"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "@astrojs/rss": "^4.0.12",
     "@astrojs/vercel": "^8.2.2",
+    "@elog/cli": "^0.14.7",
     "@playform/compress": "^0.2.0",
     "@waline/client": "^3.6.0",
     "astro": "^5.12.0",
