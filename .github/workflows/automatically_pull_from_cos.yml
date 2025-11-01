@@ -1,4 +1,4 @@
-Name: 同步（阿里云）OSS到Obsidian仓库
+name: 同步（阿里云）OSS到Obsidian仓库
 
 on:
   # 每 5 小时自动同步一次（UTC 时间）
