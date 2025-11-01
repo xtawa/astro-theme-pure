@@ -45,9 +45,6 @@ jobs:
           repo: ${{ secrets.ELOG_GITHUB_REPO }}
 
         run: |
-          env
-          echo "ELOG_GITHUB_TOKEN is set: $token"
-          echo "ELOG_GITHUB_USER is set: $user"
           npm run sync 
 
       - name: 配置Git用户名邮箱
