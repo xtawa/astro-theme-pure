@@ -3,11 +3,10 @@ categories:
   - 记录
 tags:
   - 破解
-  - 记录
-  - 教程
-publishDate: 2024-02-
+  - 安卓
+publishDate: '2024-01-15'
 urlname: nouscrack
-description: ''
+description: 记一次电子班牌破解记录-诺识电子班牌
 title: 记一次电子班牌破解记录
 ---
 
