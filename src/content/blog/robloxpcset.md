@@ -26,12 +26,3 @@ title: Roblox电脑端设置镜头移动
 
 ### 2.按下电脑“shift”键，即可设置镜头晃动。
 
-
-测试
-
-
-1111111111
-
-
-![919c25e7-51eb-46c3-8600-7f3b89750c9e.jpg](https://raw.githubusercontent.com/xtawa/picx-images-hosting/master/df1dae11c11889c0819580256478bc2b.jpg)
-
