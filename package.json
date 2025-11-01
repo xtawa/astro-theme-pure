@@ -6,7 +6,7 @@
     "dev:check": "astro check --watch & astro dev",
     "build": "astro-pure check && astro check && astro build",
     "preview": "astro preview",
-    "sync": "elog sync -c elog.config.js -e elog.env",
+    "sync": "elog sync -c elog.config.js",
     "check": "astro check",
     "astro": "astro",
     "pure": "astro-pure",
