@@ -72,7 +72,7 @@ module.exports = {
     enable: true,
     platform: 'github',
     github: {
-      token: process.env.PIC_TOKEN,
+      token: process.env.ELOG_GITHUB_TOKEN,
       user: 'xtawa',
       repo: 'picx-images-hosting',
     }
