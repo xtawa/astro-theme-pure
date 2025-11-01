@@ -73,9 +73,8 @@ module.exports = {
     platform: 'github',
     github: {
       token: process.env.PIC_TOKEN,
-      user: process.env.ELOG_GITHUB_USER,
-      repo: process.env.ELOG_GITHUB_REPO,
-      prefixKey: '',
+      user: 'xtawa',
+      repo: 'picx-images-hosting',
     }
   }
 }
