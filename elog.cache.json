@@ -1,31 +1,9 @@
 {
   "docs": [
     {
-      "id": "29e919c5-2470-80e4-b4f9-f0fda4e5aca4",
-      "doc_id": "29e919c5-2470-80e4-b4f9-f0fda4e5aca4",
-      "updated": 1761995220000,
-      "properties": {
-        "cover": "",
-        "categories": [],
-        "tags": [],
-        "status": "待发布",
-        "banner": "",
-        "publishDate": "",
-        "catalog": [],
-        "urlname": "29e919c5-2470-80e4-b4f9-f0fda4e5aca4",
-        "description": "",
-        "title": "",
-        "date": "2025-11-01 19:07:00",
-        "updated": "2025-11-01 19:07:00"
-      },
-      "realName": "29e919c5-2470-80e4-b4f9-f0fda4e5aca4",
-      "relativePath": "\\29e919c5-2470-80e4-b4f9-f0fda4e5aca4.md",
-      "docPath": "./src/content/blog"
-    },
-    {
       "id": "29e919c5-2470-8030-a1d1-ecff60f9e563",
       "doc_id": "29e919c5-2470-8030-a1d1-ecff60f9e563",
-      "updated": 1762012920000,
+      "updated": 1762043640000,
       "properties": {
         "categories": [
           "生活"
@@ -71,7 +49,7 @@
       "object": "page",
       "id": "29e919c5-2470-8030-a1d1-ecff60f9e563",
       "created_time": "2025-11-01T15:13:00.000Z",
-      "last_edited_time": "2025-11-01T16:02:00.000Z",
+      "last_edited_time": "2025-11-02T00:34:00.000Z",
       "created_by": {
         "object": "user",
         "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
@@ -90,7 +68,6 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
-        "cover": "",
         "categories": [
           "生活"
         ],
@@ -99,15 +76,10 @@
           "建站",
           "记录"
         ],
-        "status": "已发布",
-        "banner": "",
         "publishDate": "2025-11-01",
-        "catalog": [],
         "urlname": "elog-deploy-hard",
         "description": "太费劲了 花了很多时间在astro上部署elog",
-        "title": "部署Elog要死了",
-        "date": "2025-11-01 23:13:00",
-        "updated": "2025-11-02 00:02:00"
+        "title": "部署Elog要死了"
       },
       "url": "https://www.notion.so/Elog-29e919c524708030a1d1ecff60f9e563",
       "public_url": "https://lyxyy.notion.site/Elog-29e919c524708030a1d1ecff60f9e563"
@@ -135,6 +107,7 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
+        "cover": "",
         "categories": [
           "博客折腾手册"
         ],
@@ -142,52 +115,18 @@
           "notion",
           "建站"
         ],
+        "status": "已发布",
+        "banner": "",
         "publishDate": "2025-11-02",
+        "catalog": [],
         "urlname": "qa-about-oldposts",
         "description": "QA",
-        "title": "关于旧文章的去存问题"
+        "title": "关于旧文章的去存问题",
+        "date": "2025-11-02 00:16:00",
+        "updated": "2025-11-02 08:31:00"
       },
       "url": "https://www.notion.so/29e919c52470807cb501deba17a3c317",
       "public_url": "https://lyxyy.notion.site/29e919c52470807cb501deba17a3c317"
-    },
-    {
-      "object": "page",
-      "id": "29e919c5-2470-80e4-b4f9-f0fda4e5aca4",
-      "created_time": "2025-11-01T11:07:00.000Z",
-      "last_edited_time": "2025-11-01T11:07:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
-      },
-      "cover": null,
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "29e919c5-2470-815c-a6f6-d55b9198e730"
-      },
-      "archived": false,
-      "in_trash": false,
-      "is_locked": false,
-      "properties": {
-        "cover": "",
-        "categories": [],
-        "tags": [],
-        "status": "待发布",
-        "banner": "",
-        "publishDate": "",
-        "catalog": [],
-        "urlname": "29e919c5-2470-80e4-b4f9-f0fda4e5aca4",
-        "description": "",
-        "title": "",
-        "date": "2025-11-01 19:07:00",
-        "updated": "2025-11-01 19:07:00"
-      },
-      "url": "https://www.notion.so/29e919c5247080e4b4f9f0fda4e5aca4",
-      "public_url": "https://lyxyy.notion.site/29e919c5247080e4b4f9f0fda4e5aca4"
     }
   ]
 }
