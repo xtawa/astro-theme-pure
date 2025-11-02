@@ -25,7 +25,7 @@
     {
       "id": "29e919c5-2470-807c-b501-deba17a3c317",
       "doc_id": "29e919c5-2470-807c-b501-deba17a3c317",
-      "updated": 1762043460000,
+      "updated": 1762044000000,
       "properties": {
         "categories": [
           "博客折腾手册"
@@ -41,6 +41,26 @@
       },
       "realName": "qa-about-oldposts",
       "relativePath": "/qa-about-oldposts.md",
+      "docPath": "./src/content/blog"
+    },
+    {
+      "id": "29f919c5-2470-8042-a89b-c97bca7d3bc1",
+      "doc_id": "29f919c5-2470-8042-a89b-c97bca7d3bc1",
+      "updated": 1762045260000,
+      "properties": {
+        "categories": [
+          "博客折腾手册"
+        ],
+        "tags": [
+          "建站"
+        ],
+        "publishDate": "2025-11-02",
+        "urlname": "test",
+        "description": "Notion to Astro",
+        "title": "转换测试"
+      },
+      "realName": "test",
+      "relativePath": "/test.md",
       "docPath": "./src/content/blog"
     }
   ],
@@ -68,6 +88,7 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
+        "cover": "",
         "categories": [
           "生活"
         ],
@@ -76,10 +97,15 @@
           "建站",
           "记录"
         ],
+        "status": "已发布",
+        "banner": "",
         "publishDate": "2025-11-01",
+        "catalog": [],
         "urlname": "elog-deploy-hard",
         "description": "太费劲了 花了很多时间在astro上部署elog",
-        "title": "部署Elog要死了"
+        "title": "部署Elog要死了",
+        "date": "2025-11-01 23:13:00",
+        "updated": "2025-11-02 08:34:00"
       },
       "url": "https://www.notion.so/Elog-29e919c524708030a1d1ecff60f9e563",
       "public_url": "https://lyxyy.notion.site/Elog-29e919c524708030a1d1ecff60f9e563"
@@ -88,7 +114,7 @@
       "object": "page",
       "id": "29e919c5-2470-807c-b501-deba17a3c317",
       "created_time": "2025-11-01T16:16:00.000Z",
-      "last_edited_time": "2025-11-02T00:31:00.000Z",
+      "last_edited_time": "2025-11-02T00:40:00.000Z",
       "created_by": {
         "object": "user",
         "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
@@ -107,7 +133,6 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
-        "cover": "",
         "categories": [
           "博客折腾手册"
         ],
@@ -115,18 +140,50 @@
           "notion",
           "建站"
         ],
-        "status": "已发布",
-        "banner": "",
         "publishDate": "2025-11-02",
-        "catalog": [],
         "urlname": "qa-about-oldposts",
         "description": "QA",
-        "title": "关于旧文章的去存问题",
-        "date": "2025-11-02 00:16:00",
-        "updated": "2025-11-02 08:31:00"
+        "title": "关于旧文章的去存问题"
       },
       "url": "https://www.notion.so/29e919c52470807cb501deba17a3c317",
       "public_url": "https://lyxyy.notion.site/29e919c52470807cb501deba17a3c317"
+    },
+    {
+      "object": "page",
+      "id": "29f919c5-2470-8042-a89b-c97bca7d3bc1",
+      "created_time": "2025-11-02T00:42:00.000Z",
+      "last_edited_time": "2025-11-02T01:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "29e919c5-2470-815c-a6f6-d55b9198e730"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "categories": [
+          "博客折腾手册"
+        ],
+        "tags": [
+          "建站"
+        ],
+        "publishDate": "2025-11-02",
+        "urlname": "test",
+        "description": "Notion to Astro",
+        "title": "转换测试"
+      },
+      "url": "https://www.notion.so/29f919c524708042a89bc97bca7d3bc1",
+      "public_url": "https://lyxyy.notion.site/29f919c524708042a89bc97bca7d3bc1"
     }
   ]
 }
