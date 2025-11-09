@@ -46,7 +46,7 @@
     {
       "id": "29f919c5-2470-8042-a89b-c97bca7d3bc1",
       "doc_id": "29f919c5-2470-8042-a89b-c97bca7d3bc1",
-      "updated": 1762046100000,
+      "updated": 1762701900000,
       "properties": {
         "categories": [
           "博客折腾手册"
@@ -66,7 +66,7 @@
     {
       "id": "29f919c5-2470-80ab-8da3-ff90f41c2c63",
       "doc_id": "29f919c5-2470-80ab-8da3-ff90f41c2c63",
-      "updated": 1762180260000,
+      "updated": 1762701840000,
       "properties": {
         "categories": [
           "生活"
@@ -76,12 +76,12 @@
           "碎碎念"
         ],
         "publishDate": "2025-11-03",
-        "urlname": "memory-back",
+        "urlname": "memory-back-001",
         "description": "爱你们所有人",
         "title": "想回到初中😭"
       },
-      "realName": "memory-back",
-      "relativePath": "/memory-back.md",
+      "realName": "memory-back-001",
+      "relativePath": "/memory-back-001.md",
       "docPath": "./src/content/blog"
     },
     {
@@ -221,6 +221,7 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
+        "cover": "",
         "categories": [
           "分享"
         ],
@@ -230,10 +231,15 @@
           "笔记",
           "工具"
         ],
+        "status": "已发布",
+        "banner": "",
         "publishDate": "2025-11-06",
+        "catalog": [],
         "urlname": "notionvsob",
         "description": "",
-        "title": "Notion VS Obsidian：哪款工具更适合你"
+        "title": "Notion VS Obsidian：哪款工具更适合你",
+        "date": "2025-11-02 15:59:00",
+        "updated": "2025-11-06 23:40:00"
       },
       "url": "https://www.notion.so/Notion-VS-Obsidian-29f919c524708017b18ac2000725c9b0",
       "public_url": "https://lyxyy.notion.site/Notion-VS-Obsidian-29f919c524708017b18ac2000725c9b0"
@@ -242,7 +248,7 @@
       "object": "page",
       "id": "29f919c5-2470-8042-a89b-c97bca7d3bc1",
       "created_time": "2025-11-02T00:42:00.000Z",
-      "last_edited_time": "2025-11-02T01:15:00.000Z",
+      "last_edited_time": "2025-11-09T15:25:00.000Z",
       "created_by": {
         "object": "user",
         "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
@@ -261,22 +267,16 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
-        "cover": "",
         "categories": [
           "博客折腾手册"
         ],
         "tags": [
           "建站"
         ],
-        "status": "已发布",
-        "banner": "",
         "publishDate": "2025-11-02",
-        "catalog": [],
         "urlname": "testn2a",
         "description": "Notion to Astro",
-        "title": "转换测试",
-        "date": "2025-11-02 08:42:00",
-        "updated": "2025-11-02 09:15:00"
+        "title": "转换测试"
       },
       "url": "https://www.notion.so/29f919c524708042a89bc97bca7d3bc1",
       "public_url": "https://lyxyy.notion.site/29f919c524708042a89bc97bca7d3bc1"
@@ -285,7 +285,7 @@
       "object": "page",
       "id": "29f919c5-2470-80ab-8da3-ff90f41c2c63",
       "created_time": "2025-11-02T16:09:00.000Z",
-      "last_edited_time": "2025-11-03T14:31:00.000Z",
+      "last_edited_time": "2025-11-09T15:24:00.000Z",
       "created_by": {
         "object": "user",
         "id": "1e7d872b-594c-815f-b88c-0002b3defaf8"
@@ -304,7 +304,6 @@
       "in_trash": false,
       "is_locked": false,
       "properties": {
-        "cover": "",
         "categories": [
           "生活"
         ],
@@ -312,15 +311,10 @@
           "回忆",
           "碎碎念"
         ],
-        "status": "已发布",
-        "banner": "",
         "publishDate": "2025-11-03",
-        "catalog": [],
-        "urlname": "memory-back",
+        "urlname": "memory-back-001",
         "description": "爱你们所有人",
-        "title": "想回到初中😭",
-        "date": "2025-11-03 00:09:00",
-        "updated": "2025-11-03 22:31:00"
+        "title": "想回到初中😭"
       },
       "url": "https://www.notion.so/29f919c5247080ab8da3ff90f41c2c63",
       "public_url": "https://lyxyy.notion.site/29f919c5247080ab8da3ff90f41c2c63"
